@@ -8,6 +8,16 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Build and release applications using VSTS/TFS 2015 Update 2 with Anthony Borton</title>
+      <pubDate>Wed, 11 May 2016 08:00:00 GMT</pubDate>
+      <link>http://www.meetup.com/Adelaide-dotNET/events/230453148/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/230453148/</guid>
+      <comments>http://www.meetup.com/Adelaide-dotNET/events/230453148/</comments>
+      <category>Podcasts</category>
+      <enclosure url="https://archive.org/download/201605_20160519_1000/2016%2005.mp3" length="30896404" type="audio/mpeg" />
+      <description><![CDATA[This is a recording of our May 2016 meeting. First up we have a short demo from Shamsul Arifin on his Bengali language Text to Speech web app. Following this we have Anthony Borton on Build and release your applications using VSTS/TFS 2015 Update 2.]]></description>
+    </item>
+    <item>
       <title>Data Encryption using .Net and SQL Server AND Building an Army of $10 Robots with HTML 5 and NodeJS</title>
       <pubDate>Wed, 13 Apr 2016 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/229525766/</link>
