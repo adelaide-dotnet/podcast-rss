@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Adelaide .NET User Group Podcast</title>
+    <link>https://www.meetup.com/Adelaide-dotNET/</link>
+    <description>Recordings of presentations made at monthly meetings of the Adelaide .NET User Group</description>
+    <language>en</language>
+    <copyright>Adelaide .NET User Group</copyright>
+    <item>
+      <title>Data Encryption using .Net and SQL Server AND Building an Army of $10 Robots with HTML 5 and NodeJS</title>
+      <pubDate>Wed, 13 Apr 2016 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/229525766/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/229525766/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/229525766/</comments>
+      <category>Podcasts</category>
+      <enclosure url="http://archive.org/download/201604_201605/2016%2004.mp3" length="36710386" type="audio/mpeg" />
+      <description><![CDATA[This is a recording of our April 2016 meeting. First up, we have our regular What's New segment with Ryan Spears, then we have two presentations. The first is from Duncan Greaves about "Data Encryption using .Net and SQL Server", and then finally we have Dr Tom Tilley on "Building an Army of $10 Robots with HTML 5 and Node.js"]]></description>
+    </item>
+    <item>
+      <title>Octopus Deploy with David Rogers</title>
+      <pubDate>Wed, 9 Mar 2016 07:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/228863602/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/228863602/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/228863602/</comments>
+      <category>Podcasts</category>
+      <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/ADNUGMeeting2016-03.mp3" length="133221479" type="audio/mpeg" />
+      <description><![CDATA[Deploying Enterprise Applications can be an art unto itself. Sophisticated, distributed systems often have a lot of moving parts. Databases often need to be updated with schema changes and new reference data with each new release.
+
+Octopus Deploy takes a lot of the heavy lifting out of complex deployments. Being an automated process, it removes opportunities for human error to occur during a deployment. It also integrates well with Continuous Integration servers, resulting in end-to-end automation from code commits to deployment of compiled code.
+
+In this presentation, we'll take a look at the basics of Octopus Deploy and see how it can significantly free up developers to focus on actual development, rather than having to also worry about the deployment aspects as well.]]></description>
+    </item>
+    <item>
+      <title>Virtual Reality in .NET with Matthew Wilson</title>
+      <pubDate>Wed, 10 Feb 2016 07:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/228144620/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/228144620/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/228144620/</comments>
+      <category>Podcasts</category>
+      <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/ADNUGMeeting2016-02.mp3" length="104287081" type="audio/mpeg" />
+      <description><![CDATA[In this presentation we’ll take a look at virtual reality technology with a focus on how to develop software using the .net stack. We’ll look back at the early days of the technology and some of the impressive accomplishments and failures of those attempts at creating virtual reality. We’ll then fast forward twenty years to review the current state of the art and some of the exciting recent developments.
+
+Knowing where we currently stand with the hardware we’ll delve into how to write software for virtual reality using .NET. We’ll take a look at the tools used and the familiar (and not so familiar) programming principles required when developing for virtual reality.
+
+The presentation will include code examples and of course there will be an Oculus Rift on standby with several VR applications from Novus Res ready to be experienced.
+]]></description>
+    </item>
+    <item>
+      <title>IntelliTest and other unit testing tools</title>
+      <pubDate>Wed, 13 Jan 2016 06:30:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/227689829/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/227689829/</guid>
+      <category>Podcasts</category>
+      <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/IntelliTestandOtherTestingTools.mp3" length="91790418" type="audio/mpeg" />
+      <description><![CDATA['IntelliTest' is one of the new features that shipped in Visual Studio 2015. This talk will demonstrate IntelliTest and see how it is particularly useful for creating tests for legacy code. But you don't have to just stick with what's in the box - we'll also update you on a number of other unit testing tools and libraries that can make writing unit tests easier. ]]></description>
+    </item>
+    <item>
+      <title>Deep Dive into Creating API Apps and Logic Apps with Bill Chesnut</title>
+      <pubDate>Wed, 9 Dec 2015 04:06:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/226664385/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/226664385/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/226664385/</comments>
+      <category>Podcasts</category>
+      <description><![CDATA[This session will take a developer and architect through the steps to create complex Logic Apps with non-connector API Apps and leveraging the numerous existing connector API Apps. Attendee will learn how to use Azure Services Bus Connector, File Connector, Office 365 Connector and custom API Apps in a Logic App, which will include conditional logic, retry logic and error handling. ]]></description>
+    </item>
+    <item>
+      <title>Buddy IoT Platform AND Web Accessibility</title>
+      <pubDate>Wed, 11 Nov 2015 07:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/225603993/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/225603993/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/225603993/</comments>
+      <category>Podcasts</category>
+      <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/ADNUGMeeting-2015-11.m4a" length="46143055" type="audio/mpeg" />
+      <description><![CDATA[Buddy IoT Platform 
+Buddy is a cloud platform for Internet of Things (IoT). Using Buddy, you can collect all of your device data with a single, clean API and send it to any analytics, marketing or visualization tool or service.
+
+In this presentation, Habib Heydarian will provide an overview of the Buddy platform, explain how to use the Buddy API to build Internet of Things applications and describe the features & capabilities of the platform.
+
+Web Accessibility
+
+Accessibility is something we should all care about. Even if it doesn't affect you individually now, chances are you know someone who does (or even yourself as we all get older and our senses become less effective than they used to be) having accessible software becomes essential.
+
+Cliff Edwards give a practical overview of making the web more accessible. He debunks common myths, highlights pitfalls and demonstrates tools and techniques to make the web a more accessible place for everyone. ]]></description>
+    </item>
+    <item>
+      <title>Microsoft Azure Explained with Paul Usher</title>
+      <pubDate>Wed, 14 Oct 2015 07:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/225527001/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/225527001/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/225527001/</comments>
+      <category>Podcasts</category>
+      <enclosure url="http://archive.org/download/ADNUGMeeting201510/ADNUG%20Meeting%202015-10.mp3" length="33707799" type="audio/mpeg" />
+      <description><![CDATA[The thing about Azure, as with any cloud service, is understanding what is available.  Join Paul Usher as he takes us through the most common uses of Azure, Web, Mobile, Data.  In this session Paul will show just how quickly you can get up to speed with Microsoft’s cloud offerings, as well as creating database, blob storage and building a simple yet powerful website in VS and deploying with a few clicks.  You can also see some of the other features of Azure at work.  Fast paced, lots to see and learn and of course always room for some fun.]]></description>
+    </item>
+    <item>
+      <title>Visual Studio 2015 and Roslyn</title>
+      <pubDate>Wed, 9 Sep 2015 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/224845803/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/224845803/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/224845803/</comments>
+      <category>Podcasts</category>
+      <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/ADNUGMeeting-2015-09.mp3" length="263768229" type="audio/mpeg" />
+      <description><![CDATA[Visual Studio 2015 Launch
+
+Ryan and Dave go through what's new in Visual Studio 2015. Be there early for official VS 2015 'swag' giveaways.
+
+There’s something about Roslyn
+
+Ben Laan on Rosyln, Microsoft’s .NET Compiler Platform ‘As a Service’. This presentation attempts to answer the what, why and how of Roslyn with a high-level dip into Microsoft’s next generation C# (and VB.NET) compiler.
+Topics include Rosyln Overview Features and Benefits, some demos to show - Code as Data, Visual Studio Integration, Code Generation/Conversion and possibly some other interesting things along the way! ]]></description>
+    </item>
+  </channel>
+</rss>
