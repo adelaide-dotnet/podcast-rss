@@ -8,6 +8,16 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>TypeScript : more than just another JS transpiler AND VS Team Services </title>
+      <pubDate>Wed, 8 Jun 2016 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/231160074/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/231160074/</guid>
+      <comments>https://www.meetup.com/Adelaide-dotNET/events/231160074/</comments>
+      <category>Podcasts</category>
+      <enclosure url="https://archive.org/download/201606_20160618/2016%2006.mp3" length="48330453" type="audio/mpeg" />
+      <description><![CDATA[This is a recording of our June 2016 meeting. First up, we have our regular What's New segment with Ryan Spears. The main speaker for this month was Basarat Ali Syed presenting on TypeScript. Basarat's presentation is also available on YouTube under the title "Adelaide .NET User Group - TypeScript with Basarat". Wrapping up this recording is an update on the latest features in Visual Studio Team Services.]]></description>
+    </item>
+    <item>
       <title>Build and release applications using VSTS/TFS 2015 Update 2 with Anthony Borton</title>
       <pubDate>Wed, 11 May 2016 08:00:00 GMT</pubDate>
       <link>http://www.meetup.com/Adelaide-dotNET/events/230453148/</link>
