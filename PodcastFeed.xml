@@ -8,6 +8,45 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Desktop Development -&gt; File | New | What Now??? with Paul Usher</title>
+      <pubDate>Wed, 14 Sep 2016 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/233908316/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/233908316/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201609_20160917/2016%2009.mp3" length="19734204" type="audio/mpeg" />
+      <description><![CDATA[Join Microsoft MVP & DevExpress Technical Evangelist Paul Usher, as he takes a look at the state of play for desktop development. During this frank session you will see where technologies like Electron fit into the picture, which technology should you reach for when starting a new desktop project? WinForms? WPF? Electron?  Should you be targeting xplat? Is .NET Core the next big thing? Can devices like the Raspberry Pi replace some desktop functionality? It’s set to spark some interesting discussions and is one meeting not to be missed! (evening proudly sponsored by DevExpress)
+
+About Paul
+
+Paul Usher is a Technical Evangelist at DevExpress. DevExpress technologies help software developers build high-performance business solutions, see complex software with greater clarity, increase productivity, and create stunning applications for Windows® and the Web in the shortest possible time.
+
+Prior to joining DevExpress, Paul ran (and still owns) an independent software development company which specialises in custom solutions for small to medium businesses, with a focus on mobile and paperless solutions. He has developed more than 100 commercial applications on Windows, OS X, iOS, and other platforms that are used worldwide covering a wide range of industries from retail, medical, construction, and various service industries. Paul is a published author, WintellectNOW instructor and speaks at industry events around the world. His blog is available at paulusher.info]]></description>
+    </item>
+    <item>
+      <title>IoT, Node + Cloud AND Parallel Programming Design Patterns and Considerations</title>
+      <pubDate>Wed, 10 Aug 2016 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/232881078/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/232881078/</guid>
+      <category>Podcasts</category>
+      <enclosure url="https://archive.org/download/201608_20160917/2016%2008.mp3" length="116222292" type="audio/mpeg" />
+      <description><![CDATA[<SPAN class=full>
+<p><B>IoT, Node.js (visual/flow coding) + Cloud with Jack Ni</B> <br/></p>
+<p>This talk will cover:</p>
+<p>•&nbsp;What is IoT?</p>
+<p>•&nbsp;A background history of embedded systems to IoT <br/></p>
+<p>• What are the challenges</p>
+<p>• What tools can be used</p>
+<p>• Cloud with IoT, and why we need cloud</p>
+<p>• Demos</p>
+<p><I><B>About Jack</B></I></p>
+<p>Highly skilled in the field of enterprise software solution development, mobile app (Xamarin) development , IoT(Raspberry/WinCE) development and delivery, Jack is currently working on a working on a business solution involving Raspberry Pi, Mobile app Dev using Xamarin and Azure Cloud. <br/></p>
+<OL></OL>
+<p><B>Parallel Programming Design Patterns and Considerations with "Curious" George Georgiou</B> <br/></p>
+<p>A taste of some design patterns, techniques and things to consider in order to increase throughput of your applications and large data processing systems with the tools available in the .NET framework.</p>
+<p><B><I>About George</I></B></p>
+<p>An Adelaide developer who loves .net, LINQ, computers, 3D graphics and has more than enough things he's interested in to keep him from being bored well past his 70s and by then there will most likely be even more "things to poke around with" on his to do list </p></SPAN>]]></description>
+    </item>
+    <item>
       <title>TypeScript : more than just another JS transpiler AND VS Team Services </title>
       <pubDate>Wed, 8 Jun 2016 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/231160074/</link>
