@@ -8,6 +8,27 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>VS 2017 and Connect() Event Highlights with David Gardiner</title>
+      <pubDate>Wed, 14 Dec 2016 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/235775147/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/235775147/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201612_20161227_2318/2016%2012.mp3" length="14576330" type="audio/mpeg" />
+      <description><![CDATA[Microsoft made some huge product announcements in New York recently. In this talk we'll show off some of the new features coming in Visual Studio 2017 including:
+
+• Live Unit Testing
+
+• Debugging improvements
+
+• Docker integration
+
+• Installer and setup improvements
+
+• Performance improvements
+
+as well as reviewing the changes coming in .NET, .NET Core,  Azure and SQL Server.]]></description>
+    </item>
+    <item>
       <title>Can you hack it? Unbreakable Data Security (+ Hackathon) with Stav Morris </title>
       <pubDate>Wed, 12 Oct 2016 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/234638412/</link>
