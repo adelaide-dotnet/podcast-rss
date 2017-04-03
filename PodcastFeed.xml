@@ -8,6 +8,26 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Reality Check - HoloLens 101 with Bronwen Zande</title>
+      <pubDate>Wed, 8 Mar 2017 19:58:18 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/237629262/#Bronwen</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/237629262/#Bronwen</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/20170302_201704/2017%2003%2002.mp3" length="22636257" type="audio/mpeg" />
+      <description><![CDATA[Reality – Virtual, Augmented and Mixed. Join Bronwen – Microsoft Emerging Experiences MVP and get your reality in check.
+
+This session will cover the different types of reality experiences and focus on the mixed reality of HoloLens. Bronwen will show you the actual device and how you can start building amazing holographic experiences for this self contained device. Don’t have a device – we’ll cover how you can start today without one. ]]></description>
+    </item>
+    <item>
+      <title>Load Testing with Ben Laan</title>
+      <pubDate>Wed, 8 Mar 2017 08:41:58 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/237629262/#Ben</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/237629262/#Ben</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/20170301_201704/2017%2003%2001.mp3" length="21394916" type="audio/mpeg" />
+      <description><![CDATA[A demonstration of how to do performance testing with Visual Studio Load and Web Test Tools.We'll also investigate and compare open source and non-MS tools in this space, as well as a brief look at strategies for dealing with performance problems in web applications.]]></description>
+    </item>
+    <item>
       <title>VS 2017 and Connect() Event Highlights with David Gardiner</title>
       <pubDate>Wed, 14 Dec 2016 07:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/235775147/</link>
