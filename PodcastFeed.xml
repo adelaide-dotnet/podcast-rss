@@ -8,6 +8,34 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Azure API Management with Bill Chesnut</title>
+      <pubDate>Wed, 9 Aug 2017 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/242028108/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/242028108/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201708_20170820/2017%2008.mp3" length="29318383" type="audio/mpeg" />
+      <description><![CDATA[Bill will be discussing and demonstrating the features Azure API Management. Looking at the Publisher/Azure Portal, Developer Portal and demonstrating API import and the power of the API Management Policies. Bill will also discuss the different usage scenarios and benefits of Azure API Management of both Web Application and Hybrid Integration.]]></description>
+    </item>
+    <item>
+      <title>Azure Cognitive Services with Paul Usher</title>
+      <pubDate>Wed, 12 Jul 2017 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/241185386/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/241185386/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201707_20170820/2017%2007.mp3" length="22196243" type="audio/mpeg" />
+      <description><![CDATA[Just the words "Cognitive Services" can be daunting, but it doesn't need to be! In fact, what if I said you can spin up a speech to text engine that will analyse the output and tell you the sentiment behind what it contains... in under 15 minutes. That is exactly what will be shown in this session - by creating a simple application that can consume an audio file (mp3) and use the power of Azure Cognitive Services to do the rest. There are many aspects to ACS and you'll be pleasantly surprised at how easy it is to integrate into existing processes.]]></description>
+    </item>
+    <item>
+      <title>Xamarin Forms Deep Dive with Sean Rodda</title>
+      <pubDate>Wed, 14 Jun 2017 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/240131745/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/240131745/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201706_20170820/2017%2006.mp3" length="19325668" type="audio/mpeg" />
+      <description><![CDATA[Xamarin Forms is a framework that allows developers to easily create cross platform production ready apps. Sean will take you through the process of creating an application using Xamarin Forms with the backend of Azure Cosmos DB. 
+Recently at the Build developer conference, Microsoft announced some great improvements to the Xamarin platform including Xamarin Live Player - a new way continuously deploy and debug application directly on iOS and Android. Sean will show you how easy it is to set up Xamarin Live Player, allowing you to easily view your UI changes without the annoyance of having to rebuild and redeploy to your device.]]></description>
+    </item>
+    <item>
       <title>Software architecture with David Rogers</title>
       <pubDate>Wed, 10 May 2017 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/239562095/</link>
