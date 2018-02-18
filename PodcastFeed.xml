@@ -8,6 +8,61 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Migrating to Git and VSTS with David Gardiner</title>
+      <pubDate>Wed, 14 Feb 2018 09:00:00 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/247505479/</link>
+      <guid isPermaLink="true">https://archive.org/download/201802b/2018%2002b.mp3</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201802b/2018%2002b.mp3" length="23035054" type="audio/mpeg" />
+      <description><![CDATA[How does a team successfully move from an internally-hosted centralized version control system to Git running in Visual Studio Team Services? Hear how one group of developers did this by taking along the people, adapting their processes, embracing the technology, in a culture open to change.]]></description>
+    </item>
+    <item>
+      <title>Off-grid Peak PoE Systems with Ewan Parsons</title>
+      <pubDate>Sun, 18 Feb 2018 20:27:16 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/247505479/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/247505479/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201802_20180218/2018%2002.mp3" length="18060899" type="audio/mpeg" />
+      <description><![CDATA[Learn about the new 60W Power over Ethernet standard, and how you can save up to 30% on power using demand-response programs.]]></description>
+    </item>
+    <item>
+      <title>Going Serverless with Azure Functions, with Sam Fernando</title>
+      <pubDate>Sun, 18 Feb 2018 20:18:20 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/246442328/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/246442328/</guid>
+      <description><![CDATA[The way systems are hosted are changing day by day and Azure serverless technologies make it easier for us to focus on the business logic and not worry about the underlying hosting and management. Azure functions assist with transitioning from monolithic software architectures to micro services patterns while providing the same experience for developers and administrators.
+
+Sam Fernando will step us through the basics of Azure Functions, how to develop and host functions and few integration scenarios with popular SaaS services.]]></description>
+    </item>
+    <item>
+      <title>Build automation with Cake</title>
+      <pubDate>Wed, 13 Dec 2017 08:00:00 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/244245302/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/244245302/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/BuildAutomationWithCake/201712.mp3" length="17434074" type="audio/mpeg" />
+      <description><![CDATA[Do you have a complex build process? Is your CI build not quite the same as building locally? Can you grab a fresh copy of the source code and be up and running in minutes?
+
+Cake is a build automation system based on C#. Find out how you can use Cake to orchestrate the entire build process, from compiling, testing, package and deployment. By using C# as the build DSL, you'll feel instantly at home!
+
+Hear about David's experiences moving from a traditional multi-step CI build process to driving the build entirely with Cake. See how you can make use of Cake's impressive built in functions and 3rd-party add-ins.
+
+Learn how to leverage Cake's extension model to write your own addins to provide custom functionality.]]></description>
+    </item>
+    <item>
+      <title>Introduction to Microsoft Bot Framework with Sam Fernando</title>
+      <pubDate>Wed, 11 Oct 2017 08:00:00 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/243797389/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/243797389/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201710_201802/2017%2010.mp3" length="18375795" type="audio/mpeg" />
+      <description><![CDATA[Do you know that you can book your flights via Skype? SkyScanner has a bot for Skype, where you can book your next holiday via chat. You may even use the Advertiser Bot through Facebook to get your daily news digest. Bots are even making enterprises be efficient and productive by letting you focus on what you do best and let the Bot do the grunt work.
+
+Bots are not new, but they are becoming more powerful, pervasive and acceptable in today’s society as a way to get answers, access information, buy goods and request for services. Not only chatting or texting, you could also be talking to a Bot via connectors like Cortana too.
+
+Sam Fernando will step us through the basics of the Microsoft Bot Framework, developing bots, hosting in Azure and connecting with channels like Facebook, Skype and Cortana.]]></description>
+    </item>
+    <item>
       <title>Azure API Management with Bill Chesnut</title>
       <pubDate>Wed, 9 Aug 2017 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/242028108/</link>
