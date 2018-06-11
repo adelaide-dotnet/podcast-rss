@@ -8,8 +8,57 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Blockchain for Mobile with Michael Williams</title>
+      <pubDate>Wed, 9 May 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/250152964/</link>
+      <guid isPermaLink="true">https://archive.org/download/201805b/2018%2005b.mp3</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201805b/2018%2005b.mp3" length="18152909" type="audio/mpeg" />
+      <description><![CDATA[Blockchain is the next big thing, have you ever wondered how we can incorporate this technology with mobile?
+
+In this session, we will learn how to integrate blockchain technology with your mobile applications, and have a look at the new Azure Blockchain Workbench]]></description>
+    </item>
+    <item>
+      <title>Programming in Microsoft Visual F# with Stephen Hosking</title>
+      <pubDate>Wed, 9 May 2018 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/250152964/</link>
+      <guid isPermaLink="true">https://archive.org/download/201805a/2018%2005a.mp3</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201805a/2018%2005a.mp3" length="15443667" type="audio/mpeg" />
+      <description><![CDATA[F# is the third major language in .Net. It is a functional, object-oriented language suitable for most applications, and shines in large and/or technical projects.
+
+There will be a coding demonstration and pragmatic pointers for getting started and progressing to real world projects]]></description>
+    </item>
+    <item>
+      <title>Use Firebase to quickly build useful software that can scale, with Darren Neimke</title>
+      <pubDate>Wed, 11 Apr 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/249380900/</link>
+      <guid isPermaLink="true">https://archive.org/download/201804b/2018%2004b.mp3</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201804b/2018%2004b.mp3" length="12287979" type="audio/mpeg" />
+      <description><![CDATA[Firebase is an easy to use set of technologies that help us rapidly build and deploy applications. It follows a reactive approach, using Observables to supply realtime updates whenever data changes. In this talk, Darren takes us through the Firebase ecosystem, and explains how it can be used to build an Angular web application. Throughout the talk we will learn about the Firebase NoSQL data stores, how to implement security, and we will deploy an application using the Firebase CLI tooling.]]></description>
+    </item>
+    <item>
+      <title>What's new in the OWASP Top 10, with Jim Burger</title>
+      <pubDate>Wed, 11 Apr 2018 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/249380900/</link>
+      <guid isPermaLink="true">https://archive.org/download/201804a/2018%2004a.mp3</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201804a/2018%2004a.mp3" length="20813320" type="audio/mpeg" />
+      <description><![CDATA[OWASP recently updated their top 10 web application development recommendations. I'll walk through some of the new items in the Top 10, and discussing their implications and ways to address them.]]></description>
+    </item>
+    <item>
+      <title>Diving into Docker and ASP.NET Core 2.0 with Jack Ni</title>
+      <pubDate>Wed, 14 Mar 2018 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/248320134/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/248320134/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201803_201806/2018%2003.mp3" length="17104394" type="audio/mpeg" />
+      <description><![CDATA[Learn about using Docker with ASP.NET Core, Docker Compose. Find out about ASP.NET Core's built in dependency injection support. Also see how to use Swagger 2.0 with API versioning.]]></description>
+    </item>
+    <item>
       <title>Migrating to Git and VSTS with David Gardiner</title>
-      <pubDate>Wed, 14 Feb 2018 09:00:00 +1000</pubDate>
+      <pubDate>Wed, 14 Feb 2018 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/247505479/</link>
       <guid isPermaLink="true">https://archive.org/download/201802b/2018%2002b.mp3</guid>
       <category>Podcast</category>
@@ -18,7 +67,7 @@
     </item>
     <item>
       <title>Off-grid Peak PoE Systems with Ewan Parsons</title>
-      <pubDate>Wed, 14 Feb 2018 08:00:00 +1000</pubDate>
+      <pubDate>Wed, 14 Feb 2018 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/247505479/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/247505479/</guid>
       <category>Podcast</category>
@@ -27,7 +76,7 @@
     </item>
     <item>
       <title>Going Serverless with Azure Functions, with Sam Fernando</title>
-      <pubDate>Wed, 10 Jan 2018 08:00:00 +1000</pubDate>
+      <pubDate>Wed, 10 Jan 2018 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/246442328/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/246442328/</guid>
       <description><![CDATA[The way systems are hosted are changing day by day and Azure serverless technologies make it easier for us to focus on the business logic and not worry about the underlying hosting and management. Azure functions assist with transitioning from monolithic software architectures to micro services patterns while providing the same experience for developers and administrators.
@@ -36,7 +85,7 @@ Sam Fernando will step us through the basics of Azure Functions, how to develop 
     </item>
     <item>
       <title>Build automation with Cake</title>
-      <pubDate>Wed, 13 Dec 2017 08:00:00 +1000</pubDate>
+      <pubDate>Wed, 13 Dec 2017 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/244245302/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/244245302/</guid>
       <category>Podcast</category>
@@ -51,7 +100,7 @@ Learn how to leverage Cake's extension model to write your own addins to provide
     </item>
     <item>
       <title>Introduction to Microsoft Bot Framework with Sam Fernando</title>
-      <pubDate>Wed, 11 Oct 2017 08:00:00 +1000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/243797389/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/243797389/</guid>
       <category>Podcast</category>
