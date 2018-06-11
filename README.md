@@ -12,7 +12,16 @@ The public URL for the Podcast is https://feeds.feedburner.com/adnug
 1. Use noise reduction effect 
 2. Export as MP3
 3. Encoding - choose VBR smallest size
-4. Upload to https://archive.org/upload/, with the following metadata
+4. Audacity Metadata
+
+Field|Value
+---|----
+Artist Name|Adelaide .NET User Group
+Track Title|Topic title
+Year|year
+Genre|Podcast
+
+5. Upload to https://archive.org/upload/, with the following metadata
 
 Field|Value
 --|---
@@ -21,3 +30,5 @@ Description|Topic overview
 Creator | Adelaide .NET User Group
 Date | Date of recording
 License	| Attribution-Noncommercial-No Derivative Works 3.0
+
+5. If two presentation, then save as separate files
