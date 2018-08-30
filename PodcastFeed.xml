@@ -8,6 +8,33 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Visual Studio Productivity for .NET devs with David Kean</title>
+      <pubDate>Wed, 8 Aug 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/253298029/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/253298029/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201808_20180830/2018%2008.mp3" length="26187932" type="audio/mpeg" />
+      <description><![CDATA[In this demo-heavy session, Dave will demonstrate the many features we've added to Visual Studio 2017 since it first released to make .NET developers more productive—improvements to editing, refactoring, debugging, and testing your code—which previously required additional extensions. Whether you’re new to Visual Studio or have been using it for many years, you’ll learn something that will make you more efficient.]]></description>
+    </item>
+    <item>
+      <title>Deploying Code with Octopus, with Andrew Katsivas</title>
+      <pubDate>Wed, 11 Jul 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/252327700/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/252327700/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201807_201808/2018%2007.mp3" length="19764374" type="audio/mpeg" />
+      <description><![CDATA[Deployments are hard: nothing runs the same in production as it does on your local machine, and orchestrating the right changes at the right time, in a repeatable and reliable way, can be really tricky, and make you fear deployment time. Octopus Deploy is a deployment automation tool that helps to ease this pain, and give you confidence that your deployments will work consistently on every release. In this talk we'll have a look at the anatomy of a deployment, and some key Octopus features to help you eliminate your deployment pains for good.]]></description>
+    </item>
+    <item>
+      <title>Diving into Docker (Part 2) with Jack Ni</title>
+      <pubDate>Wed, 13 Jun 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/251229747/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/251229747/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201806_201808/2018%2006.mp3" length="16392870" type="audio/mpeg" />
+      <description><![CDATA[Because too much Docker is barely enough! Jack is back for the sequel to his March presentation. Drilling deep into Docker and also covering the tooling to manage all those containers.]]></description>
+    </item>
+    <item>
       <title>Blockchain for Mobile with Michael Williams</title>
       <pubDate>Wed, 9 May 2018 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/250152964/</link>
