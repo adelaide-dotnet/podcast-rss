@@ -8,6 +8,76 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>About Blazor with Ben Laan</title>
+      <pubDate>Wed, 10 Apr 2019 10:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/260026449/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/260026449/</guid>
+      <category>podcast</category>
+      <enclosure url="https://archive.org/download/201904b/2019%2004b.mp3" length="22101674" type="audio/mpeg" />
+      <description><![CDATA[Blazor is a single-page app framework for building interactive client-side Web apps with .NET. Blazor uses open web standards (no plugins or code transpilation). Blazor works in all modern web browsers, including mobile browsers.
+
+In this talk I will provide an overview of *What* it is, and *Why* it is important. I'll offer some speculation about *Where* its headed, and finally a demo on *How* to build an application with custom Blazor components.]]></description>
+    </item>
+    <item>
+      <title>Azure DevOps CI and Docker with Jack Ni</title>
+      <pubDate>Wed, 10 Apr 2019 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/260026449/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/260026449/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201904a/2019%2004a.mp3" length="17700095" type="audio/mpeg" />
+      <description><![CDATA[How to achieve DevOps (including security checks) by using Azure DevOps, Docker and other tooling. How to using Azure DevOps with GitFlow.]]></description>
+    </item>
+    <item>
+      <title>Building rich cross-platform applications with WebAssembly and Uno Platform with David Oliver</title>
+      <pubDate>Wed, 13 Mar 2019 10:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/258613805/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/258613805/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201903b/2019%2003b.mp3" length="16647470" type="audio/mpeg" />
+      <description><![CDATA[WebAssembly has huge implications for the web— it provides a way to run code written in multiple languages on the web at near-native speed, with client apps running on the web that previously couldn’t have done so. This presentation will discuss how to build rich apps with WebAssembly and present Uno Platform, a new UI framework that compiles and runs C# code that allows for the creation of rich UI apps that can target mobile and web simultaneously. You will learn how to reuse .NET Standard application and C# code to make your applications run across all browsers and all OS with WASM. In this talk, not only you will be able to see the magic happen in front of your very eyes, you will also learn how to create apps using C# and XAML that can work on WASM but also on iOS, Android, and Windows.]]></description>
+    </item>
+    <item>
+      <title>Putting the Sec in DevSecOps with Jakob Pennington</title>
+      <pubDate>Wed, 13 Mar 2019 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/258613805/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/258613805/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201903_201905/2019%2003.mp3" length="16953976" type="audio/mpeg" />
+      <description><![CDATA[DevSecOps seems to be the flavour of the month when it comes to software security. Is this just a buzzword, an ideology that's only applicable in unicorn start-ups, or are there tools and practices that we should be using to write more secure code. In his talk, Jakob explores DevSecOps as an approach to avoiding the common issues he sees as a penetration tester, and presents a process to build out a DevSecOps pipeline.]]></description>
+    </item>
+    <item>
+      <title>ASP.NET + TypeScript: Frontend Architecture with Dan Harris</title>
+      <pubDate>Wed, 13 Feb 2019 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/258060699/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/258060699/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201902_201905/2019%2002.mp3" length="16537881" type="audio/mpeg" />
+      <description><![CDATA[There’s been a lot of buzz in the frontend world around various frameworks and architectures. In the midst of this explosion in experimentation, sometimes a more basic, ‘vanilla’ approach, is left on the sidelines. When is a SPA a good option? When is a jQuery-style solution appropriate? How do you manage state? These are some of the questions we’ll explore in this talk. Additionally, we’ll run through an example setup using ASP.NET & TypeScript (sans any ‘frameworks’). So, get your thinking hats on, and let’s start our quest.]]></description>
+    </item>
+    <item>
+      <title>Migrating from AngularJS and ASP.NET MVC3 to Angular6, With Kayes Islam&lt;new&gt;</title>
+      <pubDate>Wed, 14 Nov 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/255994730/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/255994730/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201811_201905/2018%2011.mp3" length="18311390" type="audio/mpeg" />
+      <description><![CDATA[There are basically two options for integrating Angular6 into an existing site that has older technologies like AngularJS or JQuery:
+
+1) Angular Elements
+2) Angular downgradeComponent
+
+This talk looks at both of these, as well as moving from an ASP.NET MVC3 architecture to a modern SPA web application]]></description>
+    </item>
+    <item>
+      <title>Feature Flags with Sam Fernando</title>
+      <pubDate>Wed, 12 Sep 2018 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/254234767/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/254234767/</guid>
+      <category>Podcast</category>
+      <enclosure url="https://archive.org/download/201809a/2018%2009a.mp3" length="21630590" type="audio/mpeg" />
+      <description><![CDATA[Feature Toggles or Feature Flags are utilised by many organisations to control system behaviour without changing the code. They offer various uses and often used to manage continuous releases and rapid feature publishing without breaking branches or modifying the code. Sam will be discussing how a smart feature toggling mechanism can be implemented and some of the popular use cases.]]></description>
+    </item>
+    <item>
       <title>Visual Studio Productivity for .NET devs with David Kean</title>
       <pubDate>Wed, 8 Aug 2018 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/253298029/</link>
