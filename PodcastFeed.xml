@@ -8,6 +8,15 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <item>
+      <title>Leveraging Azure Cognitive Services for accessible Unity games, with Scott Cabot</title>
+      <pubDate>Wed, 12 Jun 2019 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/261070866/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/261070866/</guid>
+      <category>podcast</category>
+      <enclosure url="https://archive.org/download/201906_201907/2019%2006.mp3" length="19364515" type="audio/mpeg" />
+      <description><![CDATA[With the pervasive spread of gaming through popular culture it is now more important than ever to cater to a wide audience of potential users. In this talk, Scott will discuss how you can easily consume the Cognitive Services API to add Text-To-Speech to a Unity game on a budget.]]></description>
+    </item>
+    <item>
       <title>About Blazor with Ben Laan</title>
       <pubDate>Wed, 10 Apr 2019 10:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/260026449/</link>
