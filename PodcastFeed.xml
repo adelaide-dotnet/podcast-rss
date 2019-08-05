@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
@@ -7,6 +7,9 @@
     <description>Recordings of presentations made at monthly meetings of the Adelaide .NET User Group</description>
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
+    <itunes:category text="Technology" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
       <title>Leveraging Azure Cognitive Services for accessible Unity games, with Scott Cabot</title>
       <pubDate>Wed, 12 Jun 2019 09:00:00 GMT</pubDate>
