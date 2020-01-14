@@ -11,6 +11,29 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
+      <title>Pragmatic Performance with David Wengier</title>
+      <pubDate>Wed, 9 Oct 2019 17:17:27 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/263709749/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/263709749/</guid>
+      <enclosure url="https://archive.org/download/201910_202001/2019%2010.mp3" length="20286832" type="audio/mpeg" />
+      <description><![CDATA[Pragmatic Performance: When to care about perf, and what to do about it
+
+As a developer you often hear both that performance is important, but also that you shouldn't worry about performance up front, so when is the right time to think about it? And if the time is right, what are you actually supposed to do?
+
+If you're interested to hear about a pragmatic approach to performance, this talk will explain when is the right time to think about benchmarking, but more importantly will run through how to correctly benchmark .NET code so any decisions made will be based on information about your code that is trustworthy.
+
+Additionally you'll also find out about some of the common, and some of the unknown, performance pitfalls of the .NET Framework and we'll discuss the true meaning behind the phrase "premature optimization is the root of all evil".]]></description>
+    </item>
+    <item>
+      <title>Azure Logic App custom connectors with Sam Fernando</title>
+      <pubDate>Wed, 11 Sep 2019 17:09:46 +1000</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/264394658/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/264394658/</guid>
+      <category>podcast</category>
+      <enclosure url="https://archive.org/download/201909_202001/2019%2009.mp3" length="24911069" type="" />
+      <description><![CDATA[Logic Apps Custom connectors are a great way to abstract your APIs and plug them into logic apps using a reusable connector pattern that is developer friendly. These connectors plug right into the logic apps designer to present a seamless experience. Whilst this uses API documentation to provide help with using the operations, they also use various security techniques. Join us at the September User group where Sam will take us through all the steps involved.]]></description>
+    </item>
+    <item>
       <title>Leveraging Azure Cognitive Services for accessible Unity games, with Scott Cabot</title>
       <pubDate>Wed, 12 Jun 2019 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/261070866/</link>
