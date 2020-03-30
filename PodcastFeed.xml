@@ -11,6 +11,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
+      <title>Serverless .NET Core with AWS SAM, with Taylor Goodall</title>
+      <pubDate>Wed, 11 Mar 2020 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/268772046/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/268772046/</guid>
+      <enclosure url="https://archive.org/download/202003_20200330/2020%2003.mp3" length="14311490" type="audio/mpeg" />
+      <description><![CDATA[Serverless applications are taking the Internet by storm & it's easy to see why, the idea of being able to solve your problem & deploy it
+then walk away without ever having to think about system updates, package updates & security is very appealing to software developers.
+Serverless may not solve all of our problems but it sure can solve a lot of them. In this talk I'll explain developing serverless applications
+in dot net core in an AWS environment & some of the tips and tricks I've picked up along the way.]]></description>
+    </item>
+    <item>
       <title>Pragmatic Performance with David Wengier</title>
       <pubDate>Wed, 9 Oct 2019 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/263709749/</link>
