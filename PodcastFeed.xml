@@ -11,6 +11,20 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
+      <title>Funky Azure Functions, with David Gardiner</title>
+      <pubDate>Wed, 14 Jul 2021 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/278946503/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/278946503/</guid>
+      <enclosure url="https://archive.org/download/adnug-2021-07-14/ADNUG%202021-07-14.mp3" length="16861442" type="" />
+      <description><![CDATA[Let's dive in to the latest features of Azure Functions - the serverless compute offering for Azure. After a quick recap of what Azure Functions are and what problems they can solve, we'll find out how Functions can now run .NET 5 (and .NET 6 in preview) and cover:
+• What works better?
+• What works differently (aka breaking changes)?
+• Why might you choose to stick with .NET Core 3.1?
+• What can you do in Visual Studio versus the CLI?
+• How can you add OpenAPI/Swagger support?
+• How would you automate the deployment with GitHub Actions or Azure Pipelines?]]></description>
+    </item>
+    <item>
       <title>Serverless .NET Core with AWS SAM, with Taylor Goodall</title>
       <pubDate>Wed, 11 Mar 2020 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/268772046/</link>
