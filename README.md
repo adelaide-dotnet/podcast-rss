@@ -7,6 +7,16 @@ The RSS feed is automatically published to an Azure Website (Azure monitors this
 
 The public URL for the Podcast is https://feeds.feedburner.com/adnug
 
+## Script for episode introduction
+
+> Hello and welcome to the ADNUG Podcast - the podcast for the Adelaide .NET User Group.
+> I'm your host, &lt;your name&gt;.
+>
+> This is the recording from our &lt;month, year&gt; meeting. 
+> &lt;presentation title&gt;, with &lt;presenter name&gt;
+>
+> And now over to the presentation!
+
 ## Technical notes for Audacity
 
 1. Use noise reduction effect (select a quiet bit to analyze and then apply that to the whole recording)
