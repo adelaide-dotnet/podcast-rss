@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
@@ -7,15 +7,20 @@
     <description>Recordings of presentations made at monthly meetings of the Adelaide .NET User Group</description>
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
-    <itunes:category text="Technology" />
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:author>Adelaide .NET User Group</itunes:author>
+    <item>
+      <title>Go for .NET Developers, with Sahan Serasinghe</title>
+      <pubDate>Wed, 8 Dec 2021 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/en-AU/Adelaide-dotNET/events/282173557/</link>
+      <guid isPermaLink="true">https://www.meetup.com/en-AU/Adelaide-dotNET/events/282173557/</guid>
+      <enclosure url="https://archive.org/download/2021-12-08/2021-12-08.mp3" length="24016482" type="audio/mpeg" />
+      <description><![CDATA[This talk is open to anybody interested in knowing what Go is about. We will go over the basic language constructs, opinions, tooling, modules, unit testing, other bits and pieces that make Go a fun language to learn. We will start with the simplest "Hello World" and top it off by building an HTTP web service by only using the standard library packages while connecting the dots between Go and C#.]]></description>
+    </item>
     <item>
       <title>Funky Azure Functions, with David Gardiner</title>
       <pubDate>Wed, 14 Jul 2021 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/278946503/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/278946503/</guid>
-      <enclosure url="https://archive.org/download/adnug-2021-07-14/ADNUG%202021-07-14.mp3" length="16861442" type="" />
+      <enclosure url="https://archive.org/download/adnug-2021-07-14/ADNUG%202021-07-14.mp3" length="16861442" type="audio/mpeg" />
       <description><![CDATA[Let's dive in to the latest features of Azure Functions - the serverless compute offering for Azure. After a quick recap of what Azure Functions are and what problems they can solve, we'll find out how Functions can now run .NET 5 (and .NET 6 in preview) and cover:
 • What works better?
 • What works differently (aka breaking changes)?
@@ -55,7 +60,7 @@ Additionally you'll also find out about some of the common, and some of the unkn
       <link>https://www.meetup.com/Adelaide-dotNET/events/264394658/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/264394658/</guid>
       <category>podcast</category>
-      <enclosure url="https://archive.org/download/201909_202001/2019%2009.mp3" length="24911069" type="" />
+      <enclosure url="https://archive.org/download/201909_202001/2019%2009.mp3" length="24911069" type="audio/mpeg" />
       <description><![CDATA[Logic Apps Custom connectors are a great way to abstract your APIs and plug them into logic apps using a reusable connector pattern that is developer friendly. These connectors plug right into the logic apps designer to present a seamless experience. Whilst this uses API documentation to provide help with using the operations, they also use various security techniques. Join us at the September User group where Sam will take us through all the steps involved.]]></description>
     </item>
     <item>
@@ -236,6 +241,7 @@ There will be a coding demonstration and pragmatic pointers for getting started 
       <pubDate>Wed, 10 Jan 2018 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/246442328/</link>
       <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/246442328/</guid>
+      <enclosure url="https://archive.org/download/201801_201802/2018%2001.mp3" length="21547853" type="audio/mpeg" />
       <description><![CDATA[The way systems are hosted are changing day by day and Azure serverless technologies make it easier for us to focus on the business logic and not worry about the underlying hosting and management. Azure functions assist with transitioning from monolithic software architectures to micro services patterns while providing the same experience for developers and administrators.
 
 Sam Fernando will step us through the basics of Azure Functions, how to develop and host functions and few integration scenarios with popular SaaS services.]]></description>
