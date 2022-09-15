@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
@@ -7,6 +7,17 @@
     <description>Recordings of presentations made at monthly meetings of the Adelaide .NET User Group</description>
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
+    <itunes:category text="Technology" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:author>Adelaide .NET User Group</itunes:author>
+    <item>
+      <title>Scalability Architectures in Commercial Software, with Ryan, Esayas and Luca</title>
+      <pubDate>Wed, 9 Feb 2022 17:23:24 +0900</pubDate>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/283308284/</link>
+      <guid isPermaLink="true">https://www.meetup.com/Adelaide-dotNET/events/283308284/</guid>
+      <enclosure url="https://archive.org/download/2022-02_202209/2022-02.mp3" length="14402484" type="audio/mpeg" />
+      <description><![CDATA[How do we architect software that has the potential to tap out the upper limits of single cluster scaling up and out? How do we achieve unbounded scalability while maintaining architectural simplicity and flexibility? Let’s find out by exploring the various forms scalability, and by deep diving into some real world inspired coded demos.]]></description>
+    </item>
     <item>
       <title>Go for .NET Developers, with Sahan Serasinghe</title>
       <pubDate>Wed, 8 Dec 2021 09:00:00 GMT</pubDate>
