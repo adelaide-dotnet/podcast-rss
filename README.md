@@ -44,3 +44,9 @@ License	| Attribution-Noncommercial-No Derivative Works 3.0
 5. If two presentations, then save as separate files
 6. Edit the [PodcastFeed.xml](PodcastFeed.xml) file to add the new episode. You can edit it manually, or use a tool like [RSS Builder](https://chocolatey.org/packages/rss-builder). Just review the changes it makes as sometimes it deletes things we want to keep.
 8. Push changes to master if you have access, otherwise create a pull request from your fork
+
+## Extracting audio from video recording
+
+```bash
+ffmpeg -i "Meeting Recording.mp4" -vn -acodec copy output-audio.aac
+```
