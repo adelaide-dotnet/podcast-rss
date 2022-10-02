@@ -11,6 +11,28 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
+      <title>.NET on AKS the easy way, with John Azariah</title>
+      <pubDate>Wed, 13 Apr 2022 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/285052961/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/285052961/</guid>
+      <enclosure url="https://archive.org/download/2022-02_202210/2022-02.mp3" length="11764551" type="audio/mpeg" />
+      <description><![CDATA[<p>Getting your .NET application running in Kubernetes, and in particular Azure Kubernetes Service (AKS) has not been the easiest of tasks, with quite a steep learning curve. That all changes with a new open source tool called 'Tugboat'.</p>
+<p>Learn about the particular challenges of .NET apps in an AKS environment. Find out about all the features of Tugboat that will simplify the deployment and running of your .NET application in AKS.</p>
+<p><strong>Links:</strong></p><ul><li><a href="https://github.com/johnazariah/tugboat">Tubgoat repository</a></li></ul></p>
+        ]]></description>
+      <itunes:duration>01:12:06</itunes:duration>
+    </item>
+    <item>
+      <title>Visual Studio 2022 Features + Q&amp;A, with Kendra Havens</title>
+      <pubDate>Wed, 9 Mar 2022 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/283905814/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/283905814/</guid>
+      <enclosure url="https://archive.org/download/2022-03_202210/2022-03.mp3" length="13669789" type="audio/mpeg" />
+      <description><![CDATA[<p>Get the most out of Visual Studio productivity and testing tools in .NET! Learn new tips to help you understand code at a glance and the tooling improvements around code style, diagnostics, refactorings, and much more! Join this session to get tips on new features that speed up your inner development flow and discover the latest in cross-platform development with remote testing on Linux and asynchronous web UI testing with Playwright.</p>
+        ]]></description>
+      <itunes:duration>01:04:00</itunes:duration>
+    </item>
+    <item>
       <title>Scalability Architectures in Commercial Software, with Ryan, Esayas and Luca</title>
       <pubDate>Wed, 9 Feb 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/283308284/</link>
