@@ -11,6 +11,24 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
+      <title>.NET Snapshot testing with Verify, with Simon Cropp</title>
+      <pubDate>Wed, 11 May 2022 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/285489647/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/285489647/</guid>
+      <enclosure url="https://archive.org/download/2022-05_202211/2022-05.mp3" length="15732839" type="audio/mpeg" />
+      <description><![CDATA[<p>Verify is a snapshot tool that simplifies the assertion of complex data models and documents with all popular .NET unit testing frameworks.</p>
+
+        <p>Verify is called on the test result during the assertion phase. It serializes that result and stores it in a file that matches the test name. On the next test execution, the result is again serialized and compared to the existing file. The test will fail if the two snapshots do not match: either the change is unexpected, or the reference snapshot needs to be updated to the new result.</p>
+        
+        <p>Learn how Verify works from its creator, what kinds of problems it is best suited for, how to customise it for different scenarios, and of the many extensions that add Verify support for numerous 3rd party libraries.</p>
+<p><strong>Links:</strong></p><ul>
+  <li><a href="https://github.com/SimonCropp">Simon's GitHub profile</a></li>
+  <li><a href="https://github.com/VerifyTests/Verify">Verify GitHub project</a></li>
+</ul></p>
+        ]]></description>
+      <itunes:duration>01:13:27</itunes:duration>
+    </item>
+    <item>
       <title>.NET on AKS the easy way, with John Azariah</title>
       <pubDate>Wed, 13 Apr 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/285052961/</link>
