@@ -17,7 +17,7 @@
       <pubDate>Wed, 10 August 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/287527133/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
-      <enclosure url="https://archive.org/download/adnug-2022-07/ADNUG%202022-07.mp3"
+      <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3"
         length="13682341" type="audio/mpeg" />
       <description><![CDATA[<p>The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service-to-service invocation or publish-subscribe messaging, Dapr helps you write resilient and secured microservices. Dapr provides you with APIs that abstract away the complexity of common challenges developers encounter regularly when building distributed applications. These API building blocks can be leveraged as the need arises - use one, several or all to develop your application faster and deliver your solution on time. By letting Dapr’s sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple.</p>
 
