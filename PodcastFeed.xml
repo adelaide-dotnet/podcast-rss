@@ -14,7 +14,24 @@
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
       <title>Accelerating Microservices Development, with Param Gunasekaran & Jasim Schluter</title>
-      <pubDate>Wed, 10 August 2022 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Sep 2022 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/288153463/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/288153463/</guid>
+      <enclosure url="https://archive.org/download/adnug-2022-09/ADNUG%202022-09.mp3"
+        length="24382495" type="audio/mpeg" />
+      <description><![CDATA[<p>WinUI is the new modern native UI platform of Windows. The open-source Uno Platform extends pixel-perfect WinUI experiences built with C# and XAML to all platforms. Yes. That means C# and XAML running on Web, WebAssembly, macOS, Linux, iOS, and Android. Awesome!</p>
+<p>Nick Randolph will show you the ins and outs of multi-platform design and development. You'll see how you can create applications spanning multiple platforms and form factors, and you'll see how reusing your C# skills and XAML knowledge can let you live the write once, run anywhere dream.</p>
+
+<p><strong>Links:</strong></p><ul>
+  <li><a href="https://platform.uno/">Uno Platform</a></li>
+  <li><a href="https://nicksnettravels.builttoroam.com/">Nick's blog</a></li>
+</ul></p>
+        ]]></description>
+      <itunes:duration>01:17:48</itunes:duration>
+    </item>
+    <item>
+      <title>Accelerating Microservices Development, with Param Gunasekaran & Jasim Schluter</title>
+      <pubDate>Wed, 10 Aug 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/287527133/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
       <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3"
@@ -31,7 +48,7 @@
     </item>
     <item>
       <title>Microsoft Build Afterparty, with Lana Vyshnivetska</title>
-      <pubDate>Wed, 13 July 2022 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Jul 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/285736667/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/285736667/</guid>
       <enclosure url="https://archive.org/download/adnug-2022-07/ADNUG%202022-07.mp3"
