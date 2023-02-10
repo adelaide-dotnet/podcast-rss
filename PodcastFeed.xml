@@ -13,10 +13,44 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
-      <title>Accelerating Microservices Development, with Param Gunasekaran & Jasim Schluter</title>
-      <pubDate>Wed, 13 Sep 2022 09:00:00 GMT</pubDate>
+      <title>Containers in .NET 7, with David Gardiner</title>
+      <pubDate>Wed, 9 Nov 2022 10:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/289414799/?containers</guid>
+      <enclosure url="https://archive.org/download/adnug-2022-11-b/ADNUG%202022-11-B.mp3"
+        length="3359288" type="audio/mpeg" />
+      <description><![CDATA[<p>Running .NET inside a container has been supported for a while, but up until now, building the container image required a bunch of extra steps. Until .NET 7! We'll contrast how much easier it is to build containers for .NET apps in .NET 7, how you can customise the image to your needs, incorporate it into your CI/CD pipeline, and any limitations to be aware of.</p>
+
+        <p><strong>Links:</strong></p><ul>
+          <li><a href="https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/">Blog post announcement</a></li>
+          <li><a href="https://github.com/dotnet/sdk-container-builds">GitHub project for SDK Container builds</a></li>
+        </ul></p>        
+        ]]></description>
+      <itunes:duration>00:12:07</itunes:duration>
+    </item>
+    <item>
+      <title>Insights into Developing with Blazor,
+        with Stephen Nield</title>
+      <pubDate>Wed, 9 Nov 2022 09:00:00 GMT</pubDate>
+      <link>
+        https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
+      <guid isPermaLink="true">
+        https://www.meetup.com/adelaide-dotnet/events/289414799/?blazor</guid>
+      <enclosure url="https://archive.org/download/adnug-2022-11-a/ADNUG%202022-11-A.mp3"
+        length="19714868" type="audio/mpeg" />
+      <description><![CDATA[<p>Blazor is a Microsoft framework first released in 2018 that uses Razor syntax and C# instead of JavaScript for developing modern web apps. One of the exciting things about Blazor is that it enables .NET developers to utilise their existing C# knowledge and allows backend and frontend development to share much of the same code.</p>
+<p>Stephen will take you through his experience working with Blazor for WebAssembly to develop a web app for Cashflow Manager. This will be a quick introduction to some of the core concepts, and also an honest opinion of where Blazor is at, and what are some of the benefits and downsides of choosing Blazor over competing frameworks like Angular and React.</p>
+        ]]></description>
+      <itunes:duration>01:08:33</itunes:duration>
+    </item>
+    <item>
+      <title>Cross-Platform
+        Mobile, Desktop &amp; Web apps in .NET with Uno, with Nick Randolph</title>
+      <pubDate>Wed, 13 Sep 2022
+        09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/288153463/</link>
-      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/288153463/</guid>
+      <guid isPermaLink="true">
+        https://www.meetup.com/adelaide-dotnet/events/288153463/</guid>
       <enclosure url="https://archive.org/download/adnug-2022-09/ADNUG%202022-09.mp3"
         length="24382495" type="audio/mpeg" />
       <description><![CDATA[<p>WinUI is the new modern native UI platform of Windows. The open-source Uno Platform extends pixel-perfect WinUI experiences built with C# and XAML to all platforms. Yes. That means C# and XAML running on Web, WebAssembly, macOS, Linux, iOS, and Android. Awesome!</p>
@@ -30,10 +64,13 @@
       <itunes:duration>01:17:48</itunes:duration>
     </item>
     <item>
-      <title>Accelerating Microservices Development, with Param Gunasekaran & Jasim Schluter</title>
-      <pubDate>Wed, 10 Aug 2022 09:00:00 GMT</pubDate>
+      <title>Accelerating
+        Microservices Development, with Param Gunasekaran and Jasim Schluter</title>
+      <pubDate>Wed, 10 Aug 2022
+        09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/287527133/</link>
-      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
+      <guid isPermaLink="true">
+        https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
       <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3"
         length="13682341" type="audio/mpeg" />
       <description><![CDATA[<p>The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service-to-service invocation or publish-subscribe messaging, Dapr helps you write resilient and secured microservices. Dapr provides you with APIs that abstract away the complexity of common challenges developers encounter regularly when building distributed applications. These API building blocks can be leveraged as the need arises - use one, several or all to develop your application faster and deliver your solution on time. By letting Dapr’s sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple.</p>
@@ -74,7 +111,7 @@
       <description><![CDATA[<p>Verify is a snapshot tool that simplifies the assertion of complex data models and documents with all popular .NET unit testing frameworks.</p>
 
         <p>Verify is called on the test result during the assertion phase. It serializes that result and stores it in a file that matches the test name. On the next test execution, the result is again serialized and compared to the existing file. The test will fail if the two snapshots do not match: either the change is unexpected, or the reference snapshot needs to be updated to the new result.</p>
-        
+
         <p>Learn how Verify works from its creator, what kinds of problems it is best suited for, how to customise it for different scenarios, and of the many extensions that add Verify support for numerous 3rd party libraries.</p>
 <p><strong>Links:</strong></p><ul>
   <li><a href="https://github.com/SimonCropp">Simon's GitHub profile</a></li>
@@ -503,7 +540,7 @@ Sam Fernando will step us through the basics of the Microsoft Bot Framework, dev
         https://www.meetup.com/Adelaide-dotNET/events/240131745/</guid>
       <category>Podcast</category>
       <enclosure url="https://archive.org/download/201706_20170820/2017%2006.mp3" length="19325668" type="audio/mpeg" />
-      <description><![CDATA[Xamarin Forms is a framework that allows developers to easily create cross platform production ready apps. Sean will take you through the process of creating an application using Xamarin Forms with the backend of Azure Cosmos DB. 
+      <description><![CDATA[Xamarin Forms is a framework that allows developers to easily create cross platform production ready apps. Sean will take you through the process of creating an application using Xamarin Forms with the backend of Azure Cosmos DB.
 Recently at the Build developer conference, Microsoft announced some great improvements to the Xamarin platform including Xamarin Live Player - a new way continuously deploy and debug application directly on iOS and Android. Sean will show you how easy it is to set up Xamarin Live Player, allowing you to easily view your UI changes without the annoyance of having to rebuild and redeploy to your device.]]></description>
     </item>
     <item>
@@ -746,7 +783,7 @@ The presentation will include code examples and of course there will be an Oculu
         https://www.meetup.com/Adelaide-dotNET/events/225603993/</comments>
       <category>Podcasts</category>
       <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/ADNUGMeeting-2015-11.m4a" length="46143055" type="audio/mpeg" />
-      <description><![CDATA[Buddy IoT Platform 
+      <description><![CDATA[Buddy IoT Platform
 Buddy is a cloud platform for Internet of Things (IoT). Using Buddy, you can collect all of your device data with a single, clean API and send it to any analytics, marketing or visualization tool or service.
 
 In this presentation, Habib Heydarian will provide an overview of the Buddy platform, explain how to use the Buddy API to build Internet of Things applications and describe the features & capabilities of the platform.
