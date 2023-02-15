@@ -13,6 +13,19 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <item>
+      <title>How do I get rid of my ifs, with Calvin Hong</title>
+      <pubDate>Wed, 8 Feb 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/290867786/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/290867786/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-02/ADNUG%202023-02.mp3"
+        length="13371212" type="audio/mpeg" />
+      <description><![CDATA[<p>You've been bashing your head against a wall for 5 hours trying to figure out what went wrong. Suddenly you remember what you were thinking when you wrote this code 2 years ago.</p>
+<p>"But an if statement would be so easy here," you had said. "Nobody will look at this anyway," you had said.</p>
+<p>Past you was a real jerk, weren't they?!</p>
+        ]]></description>
+      <itunes:duration>00:46:06</itunes:duration>
+    </item>
+    <item>
       <title>Containers in .NET 7, with David Gardiner</title>
       <pubDate>Wed, 9 Nov 2022 10:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
@@ -24,18 +37,16 @@
         <p><strong>Links:</strong></p><ul>
           <li><a href="https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/">Blog post announcement</a></li>
           <li><a href="https://github.com/dotnet/sdk-container-builds">GitHub project for SDK Container builds</a></li>
-        </ul></p>        
+        </ul></p>
         ]]></description>
       <itunes:duration>00:12:07</itunes:duration>
     </item>
     <item>
-      <title>Insights into Developing with Blazor,
-        with Stephen Nield</title>
+      <title>Insights into Developing with Blazor, with Stephen Nield</title>
       <pubDate>Wed, 9 Nov 2022 09:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
-      <guid isPermaLink="true">
-        https://www.meetup.com/adelaide-dotnet/events/289414799/?blazor</guid>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/289414799/?blazor</guid>
       <enclosure url="https://archive.org/download/adnug-2022-11-a/ADNUG%202022-11-A.mp3"
         length="19714868" type="audio/mpeg" />
       <description><![CDATA[<p>Blazor is a Microsoft framework first released in 2018 that uses Razor syntax and C# instead of JavaScript for developing modern web apps. One of the exciting things about Blazor is that it enables .NET developers to utilise their existing C# knowledge and allows backend and frontend development to share much of the same code.</p>
@@ -44,10 +55,8 @@
       <itunes:duration>01:08:33</itunes:duration>
     </item>
     <item>
-      <title>Cross-Platform
-        Mobile, Desktop &amp; Web apps in .NET with Uno, with Nick Randolph</title>
-      <pubDate>Wed, 13 Sep 2022
-        09:00:00 GMT</pubDate>
+      <title>Cross-Platform Mobile, Desktop &amp; Web apps in .NET with Uno, with Nick Randolph</title>
+      <pubDate>Wed, 13 Sep 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/288153463/</link>
       <guid isPermaLink="true">
         https://www.meetup.com/adelaide-dotnet/events/288153463/</guid>
@@ -64,13 +73,10 @@
       <itunes:duration>01:17:48</itunes:duration>
     </item>
     <item>
-      <title>Accelerating
-        Microservices Development, with Param Gunasekaran and Jasim Schluter</title>
-      <pubDate>Wed, 10 Aug 2022
-        09:00:00 GMT</pubDate>
+      <title>Accelerating Microservices Development, with Param Gunasekaran and Jasim Schluter</title>
+      <pubDate>Wed, 10 Aug 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/287527133/</link>
-      <guid isPermaLink="true">
-        https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
       <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3"
         length="13682341" type="audio/mpeg" />
       <description><![CDATA[<p>The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service-to-service invocation or publish-subscribe messaging, Dapr helps you write resilient and secured microservices. Dapr provides you with APIs that abstract away the complexity of common challenges developers encounter regularly when building distributed applications. These API building blocks can be leveraged as the need arises - use one, several or all to develop your application faster and deliver your solution on time. By letting Dapr’s sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple.</p>
