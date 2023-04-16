@@ -3,15 +3,47 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
-    <link>
-      https://www.meetup.com/Adelaide-dotNET/</link>
-    <description>Recordings of presentations made at monthly
-      meetings of the Adelaide .NET User Group</description>
+    <link>https://www.meetup.com/Adelaide-dotNET/</link>
+    <description>Recordings of presentations made at monthly meetings of the Adelaide .NET User Group</description>
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <itunes:category text="Technology" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
+    <item>
+      <title>How does Hot Reload even work, with David Wengier</title>
+      <pubDate>Wed, 12 Apr 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/292349713/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/292349713/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-04/ADNUG%202023-04.mp3"
+        length="22007169" type="audio/mpeg" />
+      <description><![CDATA[<p>Hot Reload (and Edit and Continue) are reasonably amazing technologies allowing you to apply code changes on the fly, without stopping your application, or seemingly even recompiling it. Whilst a Hot Reload demo is all well and good (and I'm happy to provide one if you like), I personally find it much more interesting to talk about how it works under the hood, why some things don't work, what things might work in future, etc.</p>
+<p>This session will be a dive into the details of .NET DLLs, how they work, how Roslyn compiles deltas for them, and how the runtime applies them. All of that wonderful information you've always wanted to know, but were too afraid to ask! You'll learn absolutely nothing about JavaScript, microservices, or anything else your company actually uses, but at least you'll have a better understanding of what's in a .NET DLL, and a better idea of ILSpy is showing you next time you run it.</p>
+<p><strong>Links:</strong></p><ul>
+  <li><a href="https://aus.social/@davidwengier">David on Mastodon</a></li>
+</ul></p>
+        ]]></description>
+      <itunes:duration>01:20:51</itunes:duration>
+    </item>
+    <item>
+      <title>Writing XAML like it's 2023, with Matt Lacey</title>
+      <pubDate>Wed, 8 Mar 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/291789030/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/291789030/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-03/ADNUG%202023-03.mp3"
+        length="21885409" type="audio/mpeg" />
+      <description><![CDATA[<p>Whether it be MAUI, WPF, WinUI, Xamarin.Forms, UWP, Uno Platform, Avalonia, or any other technology that defines UIs with XAML, there are some common complaints about working with XAML files that have been around as long as XAML has.</p>
+        <p>It can be hard to write, understand, maintain and modify. But, it doesn't have to be this way.</p>
+        <p>The solution isn't abandoning XAML entirely, adopting a new framework, or using a different pattern. The solution is treating XAML like a "real programming language."</p>
+        <p>By comparing it with how we write and work with C# and other files we compile into our applications, let me show you what we've been doing wrong, how we can do things differently, how it makes things better, and give you strategies for improving existing codebases.</p>
+        <p>Or, you can tell me why I'm wrong, and that it's still appropriate that the XAML files created today look like the ones created 15+ years ago..</p>
+<p><strong>Links:</strong></p><ul>
+  <li><a href="https://www.mrlacey.com/">Matt's blog</a></li>
+  <li><a href="https://twitter.com/mrlacey">Matt on Twitter</a></li>
+</ul></p>
+        ]]></description>
+      <itunes:duration>01:20:51</itunes:duration>
+    </item>
     <item>
       <title>How do I get rid of my ifs, with Calvin Hong</title>
       <pubDate>Wed, 8 Feb 2023 09:00:00 GMT</pubDate>
