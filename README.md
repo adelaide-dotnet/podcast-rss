@@ -1,18 +1,19 @@
 # ADNUG Podcast
+
 Adelaide .NET User Group monthly meeting podcast RSS feed
 
-This repository contains source for the RSS feed for the recordings of ADNUG monthly meetings.
+This repository contains the source for the RSS feed for the recordings of ADNUG monthly meetings.
 
 The RSS feed is automatically published to an Azure Website (Azure monitors this repo for changes).
 
-The public URL for the Podcast is https://feeds.feedburner.com/adnug
+The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://feeds.feedburner.com/adnug)
 
 ## Script for episode introduction
 
 > Hello and welcome to the ADNUG Podcast - the podcast for the Adelaide .NET User Group.
 > I'm your host, &lt;your name&gt;.
 >
-> This is the recording from our &lt;month, year&gt; meeting. 
+> This is the recording from our &lt;month, year&gt; meeting.
 > &lt;presentation title&gt;, with &lt;presenter name&gt;
 >
 > And now over to the presentation!
@@ -23,30 +24,31 @@ The public URL for the Podcast is https://feeds.feedburner.com/adnug
 2. Export as MP3
 3. Encoding - choose VBR smallest size
 4. Audacity Metadata
+    Field|Value
+    ---|----
+    Artist Name|Adelaide .NET User Group
+    Track Title|Topic title
+    Year|year
+    Genre|Podcast
 
-Field|Value
----|----
-Artist Name|Adelaide .NET User Group
-Track Title|Topic title
-Year|year
-Genre|Podcast
-
-5. Upload to https://archive.org/upload/, with the following metadata
-
-Field|Value
---|---
-Page Title	|Topic title
-Description|Topic overview
-Creator | Adelaide .NET User Group
-Date | Date of recording
-License	| Attribution-Noncommercial-No Derivative Works 3.0
-
-5. If two presentations, then save as separate files
-6. Edit the [PodcastFeed.xml](PodcastFeed.xml) file to add the new episode. You can edit it manually, or use a tool like [RSS Builder](https://chocolatey.org/packages/rss-builder). Just review the changes it makes as sometimes it deletes things we want to keep.
-8. Push changes to master if you have access, otherwise create a pull request from your fork
+5. Upload to [https://archive.org/upload/](https://archive.org/upload/), with the following metadata
+    Field|Value
+    --|---
+    Page Title |Topic title
+    Description|Topic overview
+    Creator | Adelaide .NET User Group
+    Date | Date of recording
+    License | Attribution-Noncommercial-No Derivative Works 3.0
+6. If two presentations, then save as separate files
+7. Edit the [PodcastFeed.xml](PodcastFeed.xml) file to add the new episode. You can edit it manually, or use a tool like [RSS Builder](https://chocolatey.org/packages/rss-builder). Just review the changes it makes as sometimes it deletes things we want to keep.
+8. Push changes to master if you have access. Otherwise, create a pull request from your fork
 
 ## Extracting audio from video recording
 
 ```bash
 ffmpeg -i "Meeting Recording.mp4" -vn -acodec copy output-audio.aac
 ```
+
+## Images
+
+Need to be 1400x1400 pixels (up to 3000x3000).
