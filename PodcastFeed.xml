@@ -13,7 +13,7 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
-    <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/Large%20Square%20Logo.jpg" />
+    <itunes:image href="https://adnug.azurewebsites.net/Large%20Square%20Logo.jpg" />
     <itunes:owner>
       <itunes:name>David Gardiner</itunes:name>
       <itunes:email>admin@adnug.net</itunes:email>
@@ -34,7 +34,7 @@
 </ul>
         ]]></description>
       <itunes:duration>01:19:52</itunes:duration>
-      <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/07-john-merchant.jpg" />
+      <itunes:image href="https://adnug.azurewebsites.net/2023/07-john-merchant.jpg" />
     </item>    
     <item>
       <title>From Code to Production - Building .NET Natively on AWS, with Derek Bingham</title>
@@ -52,7 +52,7 @@
 </ul>
         ]]></description>
       <itunes:duration>01:13:56</itunes:duration>
-      <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/06-derek-bingham.jpg" />
+      <itunes:image href="https://adnug.azurewebsites.net/2023/06-derek-bingham.jpg" />
     </item>
     <item>
       <title>Moving Beyond RESTful: Why gRPC should be your next choice for .NET API services, with Andy Li</title>
@@ -64,7 +64,7 @@
       <description><![CDATA[<p>In this presentation, we will explore why gRPC is a technology worth considering for API service development in .NET. We will discuss the benefits of gRPC over RESTful APIs and provide an overview of the basics of creating a gRPC service project. We will also cover advanced topics, including server-side streaming, bi-directional streaming, authentication, and the use of interceptors. Additionally, we will demonstrate how to add a C# client project, a Python client, and a web client. Finally, we will discuss how to manage changes and conduct mock testing with gRPC. This presentation will provide you with enough information to make informed decisions about whether gRPC is the right choice for your next API project.</p>
         ]]></description>
       <itunes:duration>01:47:14</itunes:duration>
-      <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/05-andy-li.jpg" />
+      <itunes:image href="https://adnug.azurewebsites.net/2023/05-andy-li.jpg" />
     </item>
     <item>
       <title>How does Hot Reload even work, with David Wengier</title>
