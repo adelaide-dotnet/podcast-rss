@@ -8,8 +8,56 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <itunes:category text="Technology" />
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
+    <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/Large%20Square%20Logo.jpg</itunes:image>
+    <item>
+      <title>ChatGPT Client with Blazor, GraphQL, .NET and Azure OpenAI Service, with John Merchant</title>
+      <pubDate>Wed, 12 Jul 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/292349713/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/292349713/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-07/ADNUG%202023-07.mp3"
+        length="21191649" type="audio/mpeg" />
+      <description><![CDATA[<p>Have you ever loaded the official ChatGPT web application, entered a prompt and wondered: "How did they build that? How did they stream the response to the browser? And most importantly, how could I build it myself, using only C# and .NET"? Then this talk is for you! Especially if you are also interested in learning how leverage the new Azure OpenAI Service offering from Microsoft Azure!</p>
+<p>This talk also features GraphQL, using the HotChocolate server and StrawberryShake client libraries.</p>
+<p><strong>Links:</strong></p><ul>
+  <li><a href="https://johnmerchant.dev/">John's website</a></li>
+  <li><a href="https://twitter.com/_JohnMerchant">John on Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/john-merchant/">John on LinkedIn</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:19:52</itunes:duration>
+      <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/07-john-merchant.jpg</itunes:image>
+    </item>    
+    <item>
+      <title>From Code to Production - Building .NET Natively on AWS, with Derek Bingham</title>
+      <pubDate>Wed, 14 Jun 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/293541913/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/293541913/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-06/ADNUG%202023-06.mp3"
+        length="23937827" type="audio/mpeg" />
+      <description><![CDATA[<p>Come and learn how 'DevPulse', a cloud native .NET application for delivering interactive polls at AWS community expo booths was taken from ideation into production.</p>
+<p>In this session we will learn how .NET was used to build a cross platform application, delivering messages to an AWS IOT backend, how that backend then aggregated and stored these messages before sending on to a real-time dashboard showing the results. We'll also see what best practices you can use when approaching your next .NET application to run on native AWS services and what IAC and automation tools can be used to make updates and new features seamless. You might event learn a bit a bit about .NET MAUI, AWS Lambda, Amazon DynamoDB, AWS AppSync and Blazor Web Assembly too 😊></p>
+<li><a href="https://dev.to/deekob">https://dev.to/deekob</a></li>
+<li><a href="https://twitter.com/deekob">Derek on Twitter</a></li>
+<li><a href="https://www.linkedin.com/in/derekwbingham/">Derek on LinkedIn</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:13:56</itunes:duration>
+      <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/06-derek-bingham.jpg</itunes:image>
+    </item>
+    <item>
+      <title>Moving Beyond RESTful: Why gRPC should be your next choice for .NET API services, with Andy Li</title>
+      <pubDate>Wed, 10 May 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/293295381/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/293295381/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-05/ADNUG%202023-05.mp3"
+        length="29508258" type="audio/mpeg" />
+      <description><![CDATA[<p>In this presentation, we will explore why gRPC is a technology worth considering for API service development in .NET. We will discuss the benefits of gRPC over RESTful APIs and provide an overview of the basics of creating a gRPC service project. We will also cover advanced topics, including server-side streaming, bi-directional streaming, authentication, and the use of interceptors. Additionally, we will demonstrate how to add a C# client project, a Python client, and a web client. Finally, we will discuss how to manage changes and conduct mock testing with gRPC. This presentation will provide you with enough information to make informed decisions about whether gRPC is the right choice for your next API project.</p>
+        ]]></description>
+      <itunes:duration>01:47:14</itunes:duration>
+      <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/05-andy-li.jpg</itunes:image>
+    </item>
     <item>
       <title>How does Hot Reload even work, with David Wengier</title>
       <pubDate>Wed, 12 Apr 2023 09:00:00 GMT</pubDate>
@@ -21,13 +69,13 @@
 <p>This session will be a dive into the details of .NET DLLs, how they work, how Roslyn compiles deltas for them, and how the runtime applies them. All of that wonderful information you've always wanted to know, but were too afraid to ask! You'll learn absolutely nothing about JavaScript, microservices, or anything else your company actually uses, but at least you'll have a better understanding of what's in a .NET DLL, and a better idea of ILSpy is showing you next time you run it.</p>
 <p><strong>Links:</strong></p><ul>
   <li><a href="https://aus.social/@davidwengier">David on Mastodon</a></li>
-</ul></p>
+</ul>
         ]]></description>
       <itunes:duration>01:20:51</itunes:duration>
     </item>
     <item>
       <title>Writing XAML like it's 2023, with Matt Lacey</title>
-      <pubDate>Wed, 8 Mar 2023 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Mar 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/291789030/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/291789030/</guid>
       <enclosure url="https://archive.org/download/adnug-2023-03/ADNUG%202023-03.mp3"
@@ -40,13 +88,13 @@
 <p><strong>Links:</strong></p><ul>
   <li><a href="https://www.mrlacey.com/">Matt's blog</a></li>
   <li><a href="https://twitter.com/mrlacey">Matt on Twitter</a></li>
-</ul></p>
+</ul>
         ]]></description>
       <itunes:duration>01:20:51</itunes:duration>
     </item>
     <item>
       <title>How do I get rid of my ifs, with Calvin Hong</title>
-      <pubDate>Wed, 8 Feb 2023 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Feb 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/290867786/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/290867786/</guid>
       <enclosure url="https://archive.org/download/adnug-2023-02/ADNUG%202023-02.mp3"
@@ -59,7 +107,7 @@
     </item>
     <item>
       <title>Containers in .NET 7, with David Gardiner</title>
-      <pubDate>Wed, 9 Nov 2022 10:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Nov 2022 10:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/289414799/?containers</guid>
       <enclosure url="https://archive.org/download/adnug-2022-11-b/ADNUG%202022-11-B.mp3"
@@ -69,13 +117,13 @@
         <p><strong>Links:</strong></p><ul>
           <li><a href="https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/">Blog post announcement</a></li>
           <li><a href="https://github.com/dotnet/sdk-container-builds">GitHub project for SDK Container builds</a></li>
-        </ul></p>
+        </ul>
         ]]></description>
       <itunes:duration>00:12:07</itunes:duration>
     </item>
     <item>
       <title>Insights into Developing with Blazor, with Stephen Nield</title>
-      <pubDate>Wed, 9 Nov 2022 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Nov 2022 09:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/289414799/?blazor</guid>
@@ -88,7 +136,7 @@
     </item>
     <item>
       <title>Cross-Platform Mobile, Desktop &amp; Web apps in .NET with Uno, with Nick Randolph</title>
-      <pubDate>Wed, 13 Sep 2022 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 Sep 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/288153463/</link>
       <guid isPermaLink="true">
         https://www.meetup.com/adelaide-dotnet/events/288153463/</guid>
@@ -100,7 +148,7 @@
 <p><strong>Links:</strong></p><ul>
   <li><a href="https://platform.uno/">Uno Platform</a></li>
   <li><a href="https://nicksnettravels.builttoroam.com/">Nick's blog</a></li>
-</ul></p>
+</ul>
         ]]></description>
       <itunes:duration>01:17:48</itunes:duration>
     </item>
@@ -111,13 +159,13 @@
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
       <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3"
         length="13682341" type="audio/mpeg" />
-      <description><![CDATA[<p>The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service-to-service invocation or publish-subscribe messaging, Dapr helps you write resilient and secured microservices. Dapr provides you with APIs that abstract away the complexity of common challenges developers encounter regularly when building distributed applications. These API building blocks can be leveraged as the need arises - use one, several or all to develop your application faster and deliver your solution on time. By letting Dapr’s sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple.</p>
+      <description><![CDATA[<p>The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service-to-service invocation or publish-subscribe messaging, Dapr helps you write resilient and secured microservices. Dapr provides you with APIs that abstract away the complexity of common challenges developers encounter regularly when building distributed applications. These API building blocks can be leveraged as the need arises - use one, several or all to develop your application faster and deliver your solution on time. By letting Dapr's sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple.</p>
 
 <p>In this session, you will be introduced to Dapr, the fundamentals of the framework, its salient features, how Dapr can accelerate your Microservices development and how you can incrementally adopt Dapr in your workplace immediately. This will be accompanied with code walkthrough of a proof-of-concept prototype illustrating some of the highlighted features of Dapr and a working demonstration of the prototype containing example microservices using Dapr framework.</p>
 
 <p><strong>Links:</strong></p><ul>
   <li><a href="https://dapr.io/">The Distributed Application Runtime</a></li>
-</ul></p>
+</ul>
         ]]></description>
       <itunes:duration>00:46:18</itunes:duration>
     </item>
@@ -154,7 +202,7 @@
 <p><strong>Links:</strong></p><ul>
   <li><a href="https://github.com/SimonCropp">Simon's GitHub profile</a></li>
   <li><a href="https://github.com/VerifyTests/Verify">Verify GitHub project</a></li>
-</ul></p>
+</ul>
         ]]></description>
       <itunes:duration>01:13:27</itunes:duration>
     </item>
@@ -176,7 +224,7 @@
     <item>
       <title>Visual
         Studio 2022 Features + Q&amp;A, with Kendra Havens</title>
-      <pubDate>Wed, 9 Mar 2022 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 09:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/adelaide-dotnet/events/283905814/</link>
       <guid isPermaLink="true">
@@ -189,19 +237,18 @@
     <item>
       <title>Scalability
         Architectures in Commercial Software, with Ryan, Esayas and Luca</title>
-      <pubDate>Wed, 9 Feb 2022
-        09:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Feb 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/283308284/</link>
       <guid isPermaLink="true">
         https://www.meetup.com/Adelaide-dotNET/events/283308284/</guid>
       <enclosure url="https://archive.org/download/2022-02_202209/2022-02.mp3" length="14402484" type="audio/mpeg" />
-      <description><![CDATA[How do we architect software that has the potential to tap out the upper limits of single cluster scaling up and out? How do we achieve unbounded scalability while maintaining architectural simplicity and flexibility? Let’s find out by exploring the various forms scalability, and by deep diving into some real world inspired coded demos.]]></description>
+      <description><![CDATA[How do we architect software that has the potential to tap out the upper limits of single cluster scaling up and out? How do we achieve unbounded scalability while maintaining architectural simplicity and flexibility? Let's find out by exploring the various forms scalability, and by deep diving into some real world inspired coded demos.]]></description>
       <itunes:duration>01:18:00</itunes:duration>
     </item>
     <item>
       <title>Go
         for .NET Developers, with Sahan Serasinghe</title>
-      <pubDate>Wed, 8 Dec 2021 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Dec 2021 09:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/en-AU/Adelaide-dotNET/events/282173557/</link>
       <guid isPermaLink="true">
@@ -244,7 +291,7 @@ in dot net core in an AWS environment & some of the tips and tricks I've picked 
     <item>
       <title>Pragmatic
         Performance with David Wengier</title>
-      <pubDate>Wed, 9 Oct 2019 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Oct 2019 08:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/263709749/</link>
       <guid isPermaLink="true">
@@ -286,8 +333,7 @@ Additionally you'll also find out about some of the common, and some of the unkn
       <title>About
         Blazor with Ben Laan</title>
       <pubDate>Wed, 10 Apr 2019 10:00:00 GMT</pubDate>
-      <link>
-        https://www.meetup.com/Adelaide-dotNET/events/260026449/</link>
+      <link>https://www.meetup.com/Adelaide-dotNET/events/260026449/#2</link>
       <guid isPermaLink="true">
         https://www.meetup.com/Adelaide-dotNET/events/260026449/</guid>
       <category>podcast</category>
@@ -318,7 +364,7 @@ In this talk I will provide an overview of *What* it is, and *Why* it is importa
         https://www.meetup.com/Adelaide-dotNET/events/258613805/</guid>
       <category>Podcast</category>
       <enclosure url="https://archive.org/download/201903b/2019%2003b.mp3" length="16647470" type="audio/mpeg" />
-      <description><![CDATA[WebAssembly has huge implications for the web— it provides a way to run code written in multiple languages on the web at near-native speed, with client apps running on the web that previously couldn’t have done so. This presentation will discuss how to build rich apps with WebAssembly and present Uno Platform, a new UI framework that compiles and runs C# code that allows for the creation of rich UI apps that can target mobile and web simultaneously. You will learn how to reuse .NET Standard application and C# code to make your applications run across all browsers and all OS with WASM. In this talk, not only you will be able to see the magic happen in front of your very eyes, you will also learn how to create apps using C# and XAML that can work on WASM but also on iOS, Android, and Windows.]]></description>
+      <description><![CDATA[WebAssembly has huge implications for the web— it provides a way to run code written in multiple languages on the web at near-native speed, with client apps running on the web that previously couldn't have done so. This presentation will discuss how to build rich apps with WebAssembly and present Uno Platform, a new UI framework that compiles and runs C# code that allows for the creation of rich UI apps that can target mobile and web simultaneously. You will learn how to reuse .NET Standard application and C# code to make your applications run across all browsers and all OS with WASM. In this talk, not only you will be able to see the magic happen in front of your very eyes, you will also learn how to create apps using C# and XAML that can work on WASM but also on iOS, Android, and Windows.]]></description>
     </item>
     <item>
       <title>Putting
@@ -342,11 +388,11 @@ In this talk I will provide an overview of *What* it is, and *Why* it is importa
         https://www.meetup.com/Adelaide-dotNET/events/258060699/</guid>
       <category>Podcast</category>
       <enclosure url="https://archive.org/download/201902_201905/2019%2002.mp3" length="16537881" type="audio/mpeg" />
-      <description><![CDATA[There’s been a lot of buzz in the frontend world around various frameworks and architectures. In the midst of this explosion in experimentation, sometimes a more basic, ‘vanilla’ approach, is left on the sidelines. When is a SPA a good option? When is a jQuery-style solution appropriate? How do you manage state? These are some of the questions we’ll explore in this talk. Additionally, we’ll run through an example setup using ASP.NET & TypeScript (sans any ‘frameworks’). So, get your thinking hats on, and let’s start our quest.]]></description>
+      <description><![CDATA[There's been a lot of buzz in the frontend world around various frameworks and architectures. In the midst of this explosion in experimentation, sometimes a more basic, 'vanilla' approach, is left on the sidelines. When is a SPA a good option? When is a jQuery-style solution appropriate? How do you manage state? These are some of the questions we'll explore in this talk. Additionally, we'll run through an example setup using ASP.NET & TypeScript (sans any 'frameworks'). So, get your thinking hats on, and let's start our quest.]]></description>
     </item>
     <item>
       <title>Migrating
-        from AngularJS and ASP.NET MVC3 to Angular6, With Kayes Islam&lt;new&gt;</title>
+        from AngularJS and ASP.NET MVC3 to Angular6, With Kayes Islam</title>
       <pubDate>Wed, 14 Nov
         2018 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/255994730/</link>
@@ -376,14 +422,14 @@ This talk looks at both of these, as well as moving from an ASP.NET MVC3 archite
     <item>
       <title>Visual
         Studio Productivity for .NET devs with David Kean</title>
-      <pubDate>Wed, 8 Aug 2018 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Aug 2018 09:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/253298029/</link>
       <guid isPermaLink="true">
         https://www.meetup.com/Adelaide-dotNET/events/253298029/</guid>
       <category>Podcast</category>
       <enclosure url="https://archive.org/download/201808_20180830/2018%2008.mp3" length="26187932" type="audio/mpeg" />
-      <description><![CDATA[In this demo-heavy session, Dave will demonstrate the many features we've added to Visual Studio 2017 since it first released to make .NET developers more productive—improvements to editing, refactoring, debugging, and testing your code—which previously required additional extensions. Whether you’re new to Visual Studio or have been using it for many years, you’ll learn something that will make you more efficient.]]></description>
+      <description><![CDATA[In this demo-heavy session, Dave will demonstrate the many features we've added to Visual Studio 2017 since it first released to make .NET developers more productive—improvements to editing, refactoring, debugging, and testing your code—which previously required additional extensions. Whether you're new to Visual Studio or have been using it for many years, you'll learn something that will make you more efficient.]]></description>
     </item>
     <item>
       <title>Deploying
@@ -412,7 +458,7 @@ This talk looks at both of these, as well as moving from an ASP.NET MVC3 archite
     <item>
       <title>Blockchain
         for Mobile with Michael Williams</title>
-      <pubDate>Wed, 9 May 2018 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 May 2018 09:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/250152964/</link>
       <guid isPermaLink="true">
@@ -540,14 +586,14 @@ Learn how to leverage Cake's extension model to write your own addins to provide
       <enclosure url="https://archive.org/download/201710_201802/2017%2010.mp3" length="18375795" type="audio/mpeg" />
       <description><![CDATA[Do you know that you can book your flights via Skype? SkyScanner has a bot for Skype, where you can book your next holiday via chat. You may even use the Advertiser Bot through Facebook to get your daily news digest. Bots are even making enterprises be efficient and productive by letting you focus on what you do best and let the Bot do the grunt work.
 
-Bots are not new, but they are becoming more powerful, pervasive and acceptable in today’s society as a way to get answers, access information, buy goods and request for services. Not only chatting or texting, you could also be talking to a Bot via connectors like Cortana too.
+Bots are not new, but they are becoming more powerful, pervasive and acceptable in today's society as a way to get answers, access information, buy goods and request for services. Not only chatting or texting, you could also be talking to a Bot via connectors like Cortana too.
 
 Sam Fernando will step us through the basics of the Microsoft Bot Framework, developing bots, hosting in Azure and connecting with channels like Facebook, Skype and Cortana.]]></description>
     </item>
     <item>
       <title>Azure
         API Management with Bill Chesnut</title>
-      <pubDate>Wed, 9 Aug 2017 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Aug 2017 08:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/242028108/</link>
       <guid isPermaLink="true">
@@ -598,7 +644,7 @@ Light on diagrams, heavy on demos, this presentation will show how we can tie to
     <item>
       <title>Reality
         Check - HoloLens 101 with Bronwen Zande</title>
-      <pubDate>Wed, 8 Mar 2017 08:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Mar 2017 08:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/237629262/#Bronwen</link>
       <guid isPermaLink="true">
@@ -607,12 +653,12 @@ Light on diagrams, heavy on demos, this presentation will show how we can tie to
       <enclosure url="https://archive.org/download/20170302_201704/2017%2003%2002.mp3" length="22636257" type="audio/mpeg" />
       <description><![CDATA[Reality – Virtual, Augmented and Mixed. Join Bronwen – Microsoft Emerging Experiences MVP and get your reality in check.
 
-This session will cover the different types of reality experiences and focus on the mixed reality of HoloLens. Bronwen will show you the actual device and how you can start building amazing holographic experiences for this self contained device. Don’t have a device – we’ll cover how you can start today without one. ]]></description>
+This session will cover the different types of reality experiences and focus on the mixed reality of HoloLens. Bronwen will show you the actual device and how you can start building amazing holographic experiences for this self contained device. Don't have a device – we'll cover how you can start today without one. ]]></description>
     </item>
     <item>
       <title>Load
         Testing with Ben Laan</title>
-      <pubDate>Wed, 8 Mar 2017 07:00:00 GMT</pubDate>
+      <pubDate>Wed, 08 Mar 2017 07:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/237629262/#Ben</link>
       <guid isPermaLink="true">
@@ -669,7 +715,7 @@ We'll start with a short introduction into the philosophies of “unhackable” 
         https://www.meetup.com/Adelaide-dotNET/events/233908316/</guid>
       <category>Podcast</category>
       <enclosure url="https://archive.org/download/201609_20160917/2016%2009.mp3" length="19734204" type="audio/mpeg" />
-      <description><![CDATA[Join Microsoft MVP & DevExpress Technical Evangelist Paul Usher, as he takes a look at the state of play for desktop development. During this frank session you will see where technologies like Electron fit into the picture, which technology should you reach for when starting a new desktop project? WinForms? WPF? Electron?  Should you be targeting xplat? Is .NET Core the next big thing? Can devices like the Raspberry Pi replace some desktop functionality? It’s set to spark some interesting discussions and is one meeting not to be missed! (evening proudly sponsored by DevExpress)
+      <description><![CDATA[Join Microsoft MVP & DevExpress Technical Evangelist Paul Usher, as he takes a look at the state of play for desktop development. During this frank session you will see where technologies like Electron fit into the picture, which technology should you reach for when starting a new desktop project? WinForms? WPF? Electron?  Should you be targeting xplat? Is .NET Core the next big thing? Can devices like the Raspberry Pi replace some desktop functionality? It's set to spark some interesting discussions and is one meeting not to be missed! (evening proudly sponsored by DevExpress)
 
 About Paul
 
@@ -707,7 +753,7 @@ Prior to joining DevExpress, Paul ran (and still owns) an independent software d
     <item>
       <title>TypeScript
         : more than just another JS transpiler AND VS Team Services </title>
-      <pubDate>Wed, 8 Jun 2016 08:00:00
+      <pubDate>Wed, 08 Jun 2016 08:00:00
         GMT</pubDate>
       <link>https://www.meetup.com/Adelaide-dotNET/events/231160074/</link>
       <guid isPermaLink="true">
@@ -750,7 +796,7 @@ Prior to joining DevExpress, Paul ran (and still owns) an independent software d
     <item>
       <title>Octopus
         Deploy with David Rogers</title>
-      <pubDate>Wed, 9 Mar 2016 07:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2016 07:00:00 GMT</pubDate>
       <link>
         https://www.meetup.com/Adelaide-dotNET/events/228863602/</link>
       <guid isPermaLink="true">
@@ -777,9 +823,9 @@ In this presentation, we'll take a look at the basics of Octopus Deploy and see 
         https://www.meetup.com/Adelaide-dotNET/events/228144620/</comments>
       <category>Podcasts</category>
       <enclosure url="http://www.podcastgarden.com/login/audio-13/13279/ADNUGMeeting2016-02.mp3" length="104287081" type="audio/mpeg" />
-      <description><![CDATA[In this presentation we’ll take a look at virtual reality technology with a focus on how to develop software using the .net stack. We’ll look back at the early days of the technology and some of the impressive accomplishments and failures of those attempts at creating virtual reality. We’ll then fast forward twenty years to review the current state of the art and some of the exciting recent developments.
+      <description><![CDATA[In this presentation we'll take a look at virtual reality technology with a focus on how to develop software using the .net stack. We'll look back at the early days of the technology and some of the impressive accomplishments and failures of those attempts at creating virtual reality. We'll then fast forward twenty years to review the current state of the art and some of the exciting recent developments.
 
-Knowing where we currently stand with the hardware we’ll delve into how to write software for virtual reality using .NET. We’ll take a look at the tools used and the familiar (and not so familiar) programming principles required when developing for virtual reality.
+Knowing where we currently stand with the hardware we'll delve into how to write software for virtual reality using .NET. We'll take a look at the tools used and the familiar (and not so familiar) programming principles required when developing for virtual reality.
 
 The presentation will include code examples and of course there will be an Oculus Rift on standby with several VR applications from Novus Res ready to be experienced.
 ]]></description>
@@ -844,7 +890,7 @@ Cliff Edwards give a practical overview of making the web more accessible. He de
         https://www.meetup.com/Adelaide-dotNET/events/225527001/</comments>
       <category>Podcasts</category>
       <enclosure url="http://archive.org/download/ADNUGMeeting201510/ADNUG%20Meeting%202015-10.mp3" length="33707799" type="audio/mpeg" />
-      <description><![CDATA[The thing about Azure, as with any cloud service, is understanding what is available.  Join Paul Usher as he takes us through the most common uses of Azure, Web, Mobile, Data.  In this session Paul will show just how quickly you can get up to speed with Microsoft’s cloud offerings, as well as creating database, blob storage and building a simple yet powerful website in VS and deploying with a few clicks.  You can also see some of the other features of Azure at work.  Fast paced, lots to see and learn and of course always room for some fun.]]></description>
+      <description><![CDATA[The thing about Azure, as with any cloud service, is understanding what is available.  Join Paul Usher as he takes us through the most common uses of Azure, Web, Mobile, Data.  In this session Paul will show just how quickly you can get up to speed with Microsoft's cloud offerings, as well as creating database, blob storage and building a simple yet powerful website in VS and deploying with a few clicks.  You can also see some of the other features of Azure at work.  Fast paced, lots to see and learn and of course always room for some fun.]]></description>
     </item>
     <item>
       <title>Visual
@@ -862,9 +908,9 @@ Cliff Edwards give a practical overview of making the web more accessible. He de
 
 Ryan and Dave go through what's new in Visual Studio 2015. Be there early for official VS 2015 'swag' giveaways.
 
-There’s something about Roslyn
+There's something about Roslyn
 
-Ben Laan on Rosyln, Microsoft’s .NET Compiler Platform ‘As a Service’. This presentation attempts to answer the what, why and how of Roslyn with a high-level dip into Microsoft’s next generation C# (and VB.NET) compiler.
+Ben Laan on Rosyln, Microsoft's .NET Compiler Platform 'As a Service'. This presentation attempts to answer the what, why and how of Roslyn with a high-level dip into Microsoft's next generation C# (and VB.NET) compiler.
 Topics include Rosyln Overview Features and Benefits, some demos to show - Code as Data, Visual Studio Integration, Code Generation/Conversion and possibly some other interesting things along the way! ]]></description>
     </item>
   </channel>

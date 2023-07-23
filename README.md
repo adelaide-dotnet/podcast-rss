@@ -6,7 +6,7 @@ This repository contains the source for the RSS feed for the recordings of ADNUG
 
 The RSS feed is automatically published to an Azure Website (Azure monitors this repo for changes).
 
-The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://feeds.feedburner.com/adnug)
+The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://feeds.feedburner.com/adnug), which is a wrapper over [https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/PodcastFeed.xml](https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/PodcastFeed.xml)
 
 ## Script for episode introduction
 
@@ -22,7 +22,7 @@ The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://f
 
 1. Use noise reduction effect (select a quiet bit to analyze and then apply that to the whole recording)
 2. Export as MP3
-3. Encoding - choose VBR smallest size
+3. Encoding - choose 'VBR' smallest size
 4. Audacity Metadata
     Field|Value
     ---|----
@@ -52,3 +52,7 @@ ffmpeg -i "Meeting Recording.mp4" -vn -acodec copy output-audio.aac
 ## Images
 
 Need to be 1400x1400 pixels (up to 3000x3000).
+
+## References
+
+* [Apple Podcast RSS Technical Specification](https://help.apple.com/itc/podcasts_connect/#/itcb54353390)
