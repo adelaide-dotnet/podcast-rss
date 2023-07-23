@@ -218,7 +218,7 @@
       <enclosure url="https://archive.org/download/2022-02_202210/2022-02.mp3" length="11764551" type="audio/mpeg" />
       <description><![CDATA[<p>Getting your .NET application running in Kubernetes, and in particular Azure Kubernetes Service (AKS) has not been the easiest of tasks, with quite a steep learning curve. That all changes with a new open source tool called 'Tugboat'.</p>
 <p>Learn about the particular challenges of .NET apps in an AKS environment. Find out about all the features of Tugboat that will simplify the deployment and running of your .NET application in AKS.</p>
-<p><strong>Links:</strong></p><ul><li><a href="https://github.com/johnazariah/tugboat">Tubgoat repository</a></li></ul></p>
+<p><strong>Links:</strong></p><ul><li><a href="https://github.com/johnazariah/tugboat">Tubgoat repository</a></li></ul>
         ]]></description>
       <itunes:duration>01:12:06</itunes:duration>
     </item>
