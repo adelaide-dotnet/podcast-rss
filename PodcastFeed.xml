@@ -8,6 +8,9 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <itunes:category text="Technology" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/Large%20Square%20Logo.jpg" />
