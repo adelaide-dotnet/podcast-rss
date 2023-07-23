@@ -8,14 +8,14 @@
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <itunes:category text="Technology" />
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
-    <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/Large%20Square%20Logo.jpg</itunes:image>
+    <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/Large%20Square%20Logo.jpg" />
     <item>
       <title>ChatGPT Client with Blazor, GraphQL, .NET and Azure OpenAI Service, with John Merchant</title>
       <pubDate>Wed, 12 Jul 2023 09:00:00 GMT</pubDate>
-      <link>https://www.meetup.com/adelaide-dotnet/events/292349713/</link>
-      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/292349713/</guid>
+      <link>https://www.meetup.com/adelaide-dotnet/events/294446418/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/294446418/</guid>
       <enclosure url="https://archive.org/download/adnug-2023-07/ADNUG%202023-07.mp3"
         length="21191649" type="audio/mpeg" />
       <description><![CDATA[<p>Have you ever loaded the official ChatGPT web application, entered a prompt and wondered: "How did they build that? How did they stream the response to the browser? And most importantly, how could I build it myself, using only C# and .NET"? Then this talk is for you! Especially if you are also interested in learning how leverage the new Azure OpenAI Service offering from Microsoft Azure!</p>
@@ -27,7 +27,7 @@
 </ul>
         ]]></description>
       <itunes:duration>01:19:52</itunes:duration>
-      <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/07-john-merchant.jpg</itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/07-john-merchant.jpg" />
     </item>    
     <item>
       <title>From Code to Production - Building .NET Natively on AWS, with Derek Bingham</title>
@@ -38,6 +38,7 @@
         length="23937827" type="audio/mpeg" />
       <description><![CDATA[<p>Come and learn how 'DevPulse', a cloud native .NET application for delivering interactive polls at AWS community expo booths was taken from ideation into production.</p>
 <p>In this session we will learn how .NET was used to build a cross platform application, delivering messages to an AWS IOT backend, how that backend then aggregated and stored these messages before sending on to a real-time dashboard showing the results. We'll also see what best practices you can use when approaching your next .NET application to run on native AWS services and what IAC and automation tools can be used to make updates and new features seamless. You might event learn a bit a bit about .NET MAUI, AWS Lambda, Amazon DynamoDB, AWS AppSync and Blazor Web Assembly too 😊></p>
+<p><strong>Links:</strong></p><ul>
 <li><a href="https://dev.to/deekob">https://dev.to/deekob</a></li>
 <li><a href="https://twitter.com/deekob">Derek on Twitter</a></li>
 <li><a href="https://www.linkedin.com/in/derekwbingham/">Derek on LinkedIn</a></li>
@@ -56,7 +57,7 @@
       <description><![CDATA[<p>In this presentation, we will explore why gRPC is a technology worth considering for API service development in .NET. We will discuss the benefits of gRPC over RESTful APIs and provide an overview of the basics of creating a gRPC service project. We will also cover advanced topics, including server-side streaming, bi-directional streaming, authentication, and the use of interceptors. Additionally, we will demonstrate how to add a C# client project, a Python client, and a web client. Finally, we will discuss how to manage changes and conduct mock testing with gRPC. This presentation will provide you with enough information to make informed decisions about whether gRPC is the right choice for your next API project.</p>
         ]]></description>
       <itunes:duration>01:47:14</itunes:duration>
-      <itunes:image>https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/05-andy-li.jpg</itunes:image>
+      <itunes:image href="https://raw.githubusercontent.com/adelaide-dotnet/podcast-rss/master/2023/05-andy-li.jpg" />
     </item>
     <item>
       <title>How does Hot Reload even work, with David Wengier</title>
