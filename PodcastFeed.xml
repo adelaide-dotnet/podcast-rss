@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+xmlns:podcast="https://podcastindex.org/namespace/1.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
@@ -18,6 +21,30 @@
       <itunes:name>David Gardiner</itunes:name>
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Managing granular authorisation in .NET, with Ryan Rowston</title>
+      <pubDate>Wed, 9 Aug 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/295024024/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/295024024/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-08/ADNUG%202023-08.mp3"
+        length="21235583" type="audio/mpeg" />
+      <description><![CDATA[<p>We have a challenge: Modern day administrators want to keep a tight rein on who can perform different actions in their systems. Join us and learn how we've evolved our authorisation patterns to grant highly granular permissions to different users, while maintaining developer-friendly patterns in code.</p>
+<p>In this talk I'll explain how we've approached this challenge, including:</p>
+<ul>
+    <li>How we've encoded discreet permission levels as bits in a 64-bit integer using a .NET flags enum.</li>
+    <li>How we've used an extended Authorize attribute to allow for developer to add authorisation in one line to API controllers/endpoints.</li>
+    <li>How we've enabled dynamic policy generation to account for the potentially quintillions of unique permission combinations that this enables.</li>
+</ul>
+
+<p><strong>Links:</strong></p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/ryanrowston/">Ryan on LinkedIn</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:04:36</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2023/08-ryan-rowston.jpg" />
+    </item>    
+
     <item>
       <title>ChatGPT Client with Blazor, GraphQL, .NET and Azure OpenAI Service, with John Merchant</title>
       <pubDate>Wed, 12 Jul 2023 09:00:00 GMT</pubDate>
