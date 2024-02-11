@@ -14,13 +14,65 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <itunes:category text="Education">
       <itunes:category text="How To" />
     </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <itunes:author>Adelaide .NET User Group</itunes:author>
     <itunes:image href="https://adnug.azurewebsites.net/Large%20Square%20Logo.jpg" />
     <itunes:owner>
       <itunes:name>David Gardiner</itunes:name>
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
+    <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Down the Oregon Trail with Functional C#, with Simon J. Painter</title>
+      <pubDate>Wed, 13 Dec 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/296822252/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/296822252/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-12/ADNUG%202023-12.mp3"
+        length="26285183" type="audio/mpeg" />
+      <description><![CDATA[<p>In 1971, three students from Minnesota thought they could liven up a history lecture by creating a computer game for the students to play, and after several days of work in HP Time Share BASIC, they came up with what turned out to be a significant milestone in the history of computer games - Oregon Trail.</p>
+<p>Oregon Trail is often regarded as one of the first great computer games, as well as being the originator of a franchise that is still running to this day. It was effectively also one of the first instances of both Shareware and a Commercial home release (depending on the version).</p>
+<p>My interest though, isn't just in historical computer games, it's also .NET and Functional Programming. I want to use this as a worked example of one of my passions - Functional Programming in C#! The challenge I've set myself is to redevelop Oregon Trail into C# using the following restrictions:</p></p>
+<ul>
+  <li>Near 100% unit test coverage</li>
+  <li>No variables can change state once set</li>
+  <li>No statements (for, foreach, if, where, etc.) unless there literally is no way of avoiding them</li>
+</ul>
+
+<p>I'll also be demonstrating a few of the tricks Functional Programming can offer, like Higher-order functions, functional flows with simple Monads and Tail Recursion. There should also be a bit of retro computing fun, while we're at it.</p>
+
+<p><strong>Links:</strong></p>
+<ul>
+  <li><a href="https://oreillymedia.pxf.io/oqb5aY">Functional Programming with C# (O'Reilly Media)</a></li>
+  <li><a href="https://www.linkedin.com/in/simon-painter-45a05217/">Simon on LinkedIn</a></li>
+  <li><a href="https://twitter.com/madSimonJ">Simon on Twitter</a></li>
+  <li><a href="https://www.thecodepainter.co.uk/">Simon's website</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:24:52</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2023/12-simon-painter.jpg" />
+    </item>     
+    <item>
+      <title>Revolutionizing Online Retail with Blazor, with James Chapman-Smith and Donald Urquhart</title>
+      <pubDate>Wed, 13 Sep 2023 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/295628602/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/295628602/</guid>
+      <enclosure url="https://archive.org/download/adnug-2023-09/ADNUG%202023-09.mp3"
+        length="26227338" type="audio/mpeg" />
+      <description><![CDATA[<p>An eye-opening journey into the heart of Discount Party Supplies' ERP
+system, Byblos, as we spotlight the transformative role Blazor has
+played in pushing our business to the next level. Discover how we at
+Discount Party Supplies are utilizing Blazor to help harness the power
+of our unique Lot Management System, enabling the efficient running of
+our 40-person-strong warehouse team. Experience innovation at work! </p>
+
+<p><strong>Links:</strong></p>
+<ul>
+  <li><a href="https://www.discountpartysupplies.com.au/">Discount Party Supplies</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:40:40</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2023/09-james-and-donald.jpg" />
+    </item>    
     <item>
       <title>Managing granular authorisation in .NET, with Ryan Rowston</title>
       <pubDate>Wed, 9 Aug 2023 09:00:00 GMT</pubDate>

@@ -39,7 +39,7 @@ The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://f
     Creator | Adelaide .NET User Group
     Date | Date of recording
     License | Attribution-Noncommercial-No Derivative Works 3.0
-6. If two presentations, then save as separate files
+6. If two presentations, then save them as separate files
 7. Edit the [PodcastFeed.xml](PodcastFeed.xml) file to add the new episode. You can edit it manually, or use a tool like [RSS Builder](https://chocolatey.org/packages/rss-builder). Just review the changes it makes as sometimes it deletes things we want to keep.
 8. Push changes to master if you have access. Otherwise, create a pull request from your fork
 
@@ -52,6 +52,10 @@ ffmpeg -i "Meeting Recording.mp4" -vn -acodec copy output-audio.aac
 ## Images
 
 Need to be 1400x1400 pixels (up to 3000x3000).
+
+## Validation
+
+- [https://podba.se/validate/?url=https://adnug.azurewebsites.net/PodcastFeed.xml](https://podba.se/validate/?url=https://adnug.azurewebsites.net/PodcastFeed.xml)
 
 ## References
 
