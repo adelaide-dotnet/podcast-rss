@@ -23,6 +23,29 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </itunes:owner>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
     <item>
+      <title>.NET 8 Lightning talks</title>
+      <pubDate>Wed, 14 Feb 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/298685906/</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/298685906/</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-02/ADNUG%202024-02.mp3"
+        length="28026462" type="audio/mpeg" />
+      <description><![CDATA[<h2>.NET 8 favourites speed-run, with Ryan Rowston</h2>
+
+<p>Let's race into the next generation of .NET with a speed-run through a few of my favourite new features is .NET 8.
+
+<h2>Blazor United, with John Merchant</h2>
+
+<p>Not a soccer/football team, it's the latest iteration of tooling for writing web apps in .NET</p>
+
+<h2>What's new in C# 12, with David Gardiner</h2>
+
+<p>Find out about the 8 new language features that shipped with C# 12!</p>
+        ]]></description>
+      <itunes:duration>01:31:42</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/02-intro.jpg" />
+    </item> 
+
+    <item>
       <title>Down the Oregon Trail with Functional C#, with Simon J. Painter</title>
       <pubDate>Wed, 13 Dec 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/296822252/</link>
