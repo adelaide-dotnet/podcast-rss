@@ -22,6 +22,32 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>Connectivity for IoT devices anywhere in the world, with Bryn Lewis</title>
+      <pubDate>Wed, 13 Mar 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/299606201</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/299606201</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-03/ADNUG%202024-03.mp3"
+        length="9905931" type="audio/mpeg" />
+      <description><![CDATA[<p>If your devices have to work anywhere, satellite connectivity is really the only option.</p>
+<p>This session is about building an Azure IoT based solution which copes with the challenges of satellite connectivity.</p>
+<ol>
+<li>How do you make the Azure IoT plumbing work with 20 byte messages which take 1-24 hours to be delivered.</li>
+<li>What is an "Azure Cloud Identity Translation Gateway"?</li>
+<li>Why MQTT is not the right hammer, but AMQP with connection pooling is.</li>
+<li>Integrating C# code which is compiled on demand.</li>
+<li>Using the Device Provisioning Service or a Device Connection string.</li>
+<li>Azure IoT Hub Messages vs. Methods.</li>
+<li>Azure IoT Central Integration.</li>
+</ol>
+
+<p>A really deep dive into working with Myriota - Low cost, global satellite connectivity for Azure IoT platform applications</p>
+        ]]></description>
+      <itunes:duration>00:32:59</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/03-bryn-lewis.jpg" />
+    </item> 
+
     <item>
       <title>.NET 8 Lightning talks</title>
       <pubDate>Wed, 14 Feb 2024 09:00:00 GMT</pubDate>
@@ -54,7 +80,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         length="26285183" type="audio/mpeg" />
       <description><![CDATA[<p>In 1971, three students from Minnesota thought they could liven up a history lecture by creating a computer game for the students to play, and after several days of work in HP Time Share BASIC, they came up with what turned out to be a significant milestone in the history of computer games - Oregon Trail.</p>
 <p>Oregon Trail is often regarded as one of the first great computer games, as well as being the originator of a franchise that is still running to this day. It was effectively also one of the first instances of both Shareware and a Commercial home release (depending on the version).</p>
-<p>My interest though, isn't just in historical computer games, it's also .NET and Functional Programming. I want to use this as a worked example of one of my passions - Functional Programming in C#! The challenge I've set myself is to redevelop Oregon Trail into C# using the following restrictions:</p></p>
+<p>My interest though, isn't just in historical computer games, it's also .NET and Functional Programming. I want to use this as a worked example of one of my passions - Functional Programming in C#! The challenge I've set myself is to redevelop Oregon Trail into C# using the following restrictions:</p>
 <ul>
   <li>Near 100% unit test coverage</li>
   <li>No variables can change state once set</li>
