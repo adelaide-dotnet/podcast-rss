@@ -22,6 +22,77 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing with SpecFlow, with Stephen Nield and Rich Moran</title>
+      <pubDate>Wed, 11 Sep 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/304178406</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/304178406</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-11/ADNUG%202024-11.mp3"
+        length="20592592" type="audio/mpeg" />
+      <description><![CDATA[<p>SpecFlow is a framework for .NET used to create automated tests using the Gherkin Given-When-Then syntax.</p>
+<p>In, this talk, you'll learn about how SpecFlow can be used to create BDD style tests, and also how it can be extended to be used for different testing scenarios.</p>
+<p>Stephen and Rich will talk about their experience of using SpecFlow at HAMBS, some of the challenges they came across in the process, and how they extended the tool to meet the testing needs of HAMBS.</p>
+<p>Specifically, they will discuss some of the practical problems that needed to be solved:</p>
+<ul>
+  <li>Customising test steps so that a tester can write tests without needing to touch the code</li>
+  <li>Database setup and assertions</li>
+  <li>Ensuring each test starts in a consistent state</li>
+</ul>
+
+<p>Links:</p>
+<ul>
+  <li><a href="https://specflow.org/">SpecFlow</a></li>
+  <li><a href="https://www.hambs.com.au/">HAMBS</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:08:23</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/11-stephen-and-rich.jpg" />
+    </item> 
+
+    <item>
+      <title>10 tips and tricks for GitHub Actions and Azure DevOps, with David Gardiner</title>
+      <pubDate>Wed, 11 Sep 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/303049329</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/303049329</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-09/ADNUG%202024-09.mp3"
+        length="21744755" type="audio/mpeg" />
+      <description><![CDATA[<p>In this talk I'll share some of the lessons learned in creating and maintaining numerous build and deployment pipelines in both Azure DevOps and GitHub.</p>
+<p>You will learn about the common traps to avoid, and simple improvements that can make your continuous integration and deployment processes more reliable and maintainable. The principles and techniques will also apply to other CI/CD toolsets.</p>
+
+<p>Links:</p>
+<ul>
+  <li><a href="https://david.gardiner.net.au/">David's blog</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:20:38</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/09-david-gardiner.jpg" />
+    </item> 
+
+    <item>
+      <title>The different ways you can join your code together, with Calvin Fong</title>
+      <pubDate>Wed, 14 Aug 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/302546578</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/302546578</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-08/ADNUG%202024-08.mp3"
+        length="20522020" type="audio/mpeg" />
+      <description><![CDATA[<p>Developers often say to "design your code like LEGO". Typically, they're suggesting you separate your code into small modules with single responsibilities. However, a frequently overlooked detail is that LEGO bricks have little studs that allow you to join them together without everything falling apart. This seems like an important detail not to overlook, because I really like when my code doesn't fall apart.</p>
+        ]]></description>
+      <itunes:duration>01:05:41</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/08-calvin-fong.jpg" />
+    </item> 
+
+    <item>
+      <title>Extending Microsoft Copilot with .NET, with Daniel Brown</title>
+      <pubDate>Wed, 10 Jul 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/301848922</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/301848922</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-07/ADNUG%202024-07.mp3"
+        length="22583824" type="audio/mpeg" />
+      <description><![CDATA[<p>In this presentation, Daniel Brown, User Group Lead of the Adelaide Microsoft Copilot User Group, will delve into developing, integrating, and extending the capabilities of Microsoft Copilot within .NET. He will explore how developers can create custom functionalities, seamlessly integrate Copilot into their existing workflows, and extend its features to suit specific project needs. Daniel will showcase practical examples, share best practices, limitations and provide insights on how to leverage Copilot's advanced tools to enhance application performance and boost productivity. We'll also touch on the different Copilots and AI platforms offered by Microsoft.</p>
+        ]]></description>
+      <itunes:duration>01:14:54</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/07-daniel-brown.jpg" />
+    </item> 
 
     <item>
       <title>OpenTelemetry: Adding observability to any Microservices environment, with Glenn Versweyveld</title>
@@ -61,7 +132,6 @@ Well fear no more! At this month's ADNUG meetup, Ben and Matt from Teamgage will
       <enclosure url="https://archive.org/download/adnug-2024-04/ADNUG%202024-04.mp3"
         length="21553232" type="audio/mpeg" />
       <description><![CDATA[<p>Developer experience is a crucial aspect of software development that focuses on improving the workflow, productivity, and overall satisfaction of developers. By enhancing the developer experience, teams can improve their velocity, performance, and resiliency, leading to better software development outcomes.</p>
-
 <p>Join Sam for an insightful presentation on developer experience (including tester experience), where he'll explore some strategies, tools, and best practices that can help you to take your team's software development process to the next level and also to measure how effective they are. From best practices, engineering tools implementation, gauging developer experience and continuous improvement, Sam will cover everything you need to know to create a seamless and enjoyable developer experience in your teams.</p>
         ]]></description>
       <itunes:duration>01:15:02</itunes:duration>
