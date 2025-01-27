@@ -24,8 +24,53 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
 
     <item>
+      <title>OpenTelemetry: Adding observability to any Microservices environment, with Glenn Versweyveld</title>
+      <pubDate>Wed, 12 Jun 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/301055529</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/301055529</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-06/ADNUG%202024-06.mp3"
+        length="20662156" type="audio/mpeg" />
+      <description><![CDATA[<p>Discover how OpenTelemetry, an open-source observability framework can revolutionise the way you monitor, trace, and analyze your distributed systems.</p>
+<p>See how you can seamlessly integrate it into your existing microservices architecture, enabling you to capture rich telemetry data and gain actionable insights into the performance and behaviour of your services.</p>
+<p>Learn how visualise these insights through the Grafana toolstack, enabling you to detect and troubleshoot issues, optimize system performance, and enhance overall resilience.</p>
+<p>Leave with practical guidance and best practices to empower your microservices environment with the comprehensive observability that OpenTelemetry provides.</p>
+        ]]></description>
+      <itunes:duration>01:03:03</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/06-glenn-versweyveld.jpg" />
+    </item> 
+
+    <item>
+      <title>Building a Microsoft Teams app to replace email, with Ben Smit and Matthew Astachnowicz</title>
+      <pubDate>Wed, 8 May 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/300491035</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/300491035</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-05/ADNUG%202024-05.mp3"
+        length="18236327" type="audio/mpeg" />
+      <description><![CDATA[<p>Do you want your notifications to cut through the noise of email? With the global shift to remote & hybrid work, email has been feeling the strain, pushing more and more companies to use IM apps such as MS Teams to keep their employees in sync. With users paying less attention to their emails, the humble notification emails that your service sends to users are now getting lost at a higher rate than ever.
+Well fear no more! At this month's ADNUG meetup, Ben and Matt from Teamgage will be teaching you how to create MS Teams apps, specifically with a focus on using a Teams app to send high impact notifications to your users. We'll cover how to create apps, test and install them, send messages to users using your app and even the 🌶️spicy🌶️ topic of getting your app published on the MS Teams app store.</p>
+        ]]></description>
+      <itunes:duration>01:04:27</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/05-ben-and-matt.jpg" />
+    </item> 
+
+    <item>
+      <title>Boosting Developer Experience, with Sam Fernando</title>
+      <pubDate>Wed, 10 Apr 2024 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/300044218</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/300044218</guid>
+      <enclosure url="https://archive.org/download/adnug-2024-04/ADNUG%202024-04.mp3"
+        length="21553232" type="audio/mpeg" />
+      <description><![CDATA[<p>Developer experience is a crucial aspect of software development that focuses on improving the workflow, productivity, and overall satisfaction of developers. By enhancing the developer experience, teams can improve their velocity, performance, and resiliency, leading to better software development outcomes.</p>
+
+<p>Join Sam for an insightful presentation on developer experience (including tester experience), where he'll explore some strategies, tools, and best practices that can help you to take your team's software development process to the next level and also to measure how effective they are. From best practices, engineering tools implementation, gauging developer experience and continuous improvement, Sam will cover everything you need to know to create a seamless and enjoyable developer experience in your teams.</p>
+        ]]></description>
+      <itunes:duration>01:15:02</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2024/04-sam-fernando.jpg" />
+    </item> 
+
+    <item>
       <title>Connectivity for IoT devices anywhere in the world, with Bryn Lewis</title>
-      <pubDate>Wed, 13 Mar 2024 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Mar 2024 10:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/299606201</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/299606201</guid>
       <enclosure url="https://archive.org/download/adnug-2024-03/ADNUG%202024-03.mp3"
