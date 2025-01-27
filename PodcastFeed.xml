@@ -1034,7 +1034,10 @@ Prior to joining DevExpress, Paul ran (and still owns) an independent software d
       <enclosure url="http://archive.org/download/201604_201605/2016%2004.mp3" length="36710386" type="audio/mpeg" />
       <description><![CDATA[This is a recording of our April 2016 meeting. First up, we have our regular What's New segment with Ryan Spears, then we have two presentations. The first is from Duncan Greaves about "Data Encryption using .Net and SQL Server", and then finally we have Dr Tom Tilley on "Building an Army of $10 Robots with HTML 5 and Node.js"]]></description>
     </item>
-    <item>
+
+<!-- podcastgarden.com site has gone offline, so all these episodes appear to be lost -->
+
+    <!-- <item>
       <title>Octopus
         Deploy with David Rogers</title>
       <pubDate>Wed, 09 Mar 2016 07:00:00 GMT</pubDate>
@@ -1152,6 +1155,6 @@ There's something about Roslyn
 
 Ben Laan on Rosyln, Microsoft's .NET Compiler Platform 'As a Service'. This presentation attempts to answer the what, why and how of Roslyn with a high-level dip into Microsoft's next generation C# (and VB.NET) compiler.
 Topics include Rosyln Overview Features and Benefits, some demos to show - Code as Data, Visual Studio Integration, Code Generation/Conversion and possibly some other interesting things along the way! ]]></description>
-    </item>
+    </item> -->
   </channel>
 </rss>
