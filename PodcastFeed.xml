@@ -22,9 +22,30 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>.NET Development in 2025 + InstallFest!, with David Gardiner</title>
+      <pubDate>Wed, 11 Mar 2025 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/306373821</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/306373821</guid>
+      <enclosure url="https://archive.org/download/adnug-2025-03/ADNUG%202025-03.mp3"
+        length="17577839" type="audio/mpeg" />
+      <description><![CDATA[<p>Never used .NET and wondering what all the fuss is about? Or are you a seasoned .NET professional curious about the parts you haven't yet explored? This session is for everyone—from newcomers to experts.</p>
+<p>We introduce .NET, explain how it works, and showcase its capabilities across front end, back end, desktop, mobile, cloud, IoT, AI, and more.</p>
+
+<p>Links:</p>
+<ul>
+  <li><a href="https://dotnet.microsoft.com">.NET</a></li>
+  <li><a href="https://david.gardiner.net.au/">David's Blog</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>00:53:58</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2025/03-david-gardiner.jpg" />
+    </item> 
+
     <item>
       <title>Testing with SpecFlow, with Stephen Nield and Rich Moran</title>
-      <pubDate>Wed, 11 Sep 2024 09:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Nov 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/304178406</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/304178406</guid>
       <enclosure url="https://archive.org/download/adnug-2024-11/ADNUG%202024-11.mp3"
