@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
-xmlns:podcast="https://podcastindex.org/namespace/1.0"
-xmlns:atom="http://www.w3.org/2005/Atom"
-xmlns:content="http://purl.org/rss/1.0/modules/content/">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
@@ -21,15 +18,44 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:name>David Gardiner</itunes:name>
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
-    <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />    
+    <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.NET SDK projects for SQL, with Ryan Rowston</title>
+      <pubDate>Wed, 10 Sep 2025 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/310693213</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/310693213</guid>
+      <enclosure url="https://archive.org/download/adnug-2025-09/ADNUG%202025-09.mp3" length="19142524" type="audio/mpeg" />
+      <description><![CDATA[<p>For years those who wished to define their database structure in a SQL project have suffered through arcane configurations and platform specific libraries. Many despaired of ever getting a modern alternative; some even turning to Entity Framework for their database deployments.<br>
+However, there were always those of us who held onto hope for a more modern answer. This year, that hope was finally realised as SDK-style SQL projects were released.<br>
+In this talk I’ll be demoing the new SDK-Style SQL project. This will showcase how to set up, build, and deploy the project. I’ll also show off a few extra tricks that you might find helpful.</p>
 
+<ul>
+<li><a href="https://www.linkedin.com/in/ryanrowston/">Ryan's LinkedIn profile</a></li>
+</ul>]]></description>
+      <itunes:duration>00:39:47</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2025/09-ryan-rowston.jpeg" />
+    </item>
+    <item>
+      <title>Move over Python, AI just got a new best friend! .NET!, with David White</title>
+      <pubDate>Wed, 09 Jul 2025 08:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/308558498</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/308558498</guid>
+      <enclosure url="https://archive.org/download/adnug-2025-07/ADNUG%202025-07.mp3" length="16032632" type="audio/mpeg" />
+      <description><![CDATA[<p>AI is no longer just for machine learning experts—it’s ready to plug into your everyday .NET workflows. In this session, you’ll learn how to build a Retrieval-Augmented Generation (RAG) chatbot using .NET, and how to implement the Model Context Protocol (MCP) to structure interactions with large language models. We’ll walk through how open-source tools like Ollama make it easy to run models locally, keep your data private, and stay in control. By the end, you’ll understand how to integrate AI into .NET apps using proven techniques and open tools—without reinventing the wheel.</p>
+
+<p>Speaker links:</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/david-white-ba9512a6/">LinkedIn</a></li>
+</ul>]]></description>
+      <itunes:duration>01:00:05</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2025/07-david-white.jpeg" />
+    </item>
     <item>
       <title>.NET Aspire: What, Why and How, with Mitch Denny</title>
       <pubDate>Wed, 14 May 2025 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/307329641</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/307329641</guid>
-      <enclosure url="https://archive.org/download/adnug-2025-05/ADNUG%202025-05.mp3"
-        length="18173360" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2025-05/ADNUG%202025-05.mp3" length="18173360" type="audio/mpeg" />
       <description><![CDATA[<p>.NET Aspire is an opinionated stack for building apps and wrangling their dependencies. In this session you'll learn what .NET Aspire is, why Microsoft created it, and how you can get started using it yourself. If you are already using .NET Aspire this is a great time to ask any questions you have and get an answer from one of the members of the .NET Aspire core team.</p>
 
 <p>Links:</p>
@@ -41,14 +67,12 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:duration>01:05:46</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2025/05-mitch-denny.jpg" />
     </item>
-
     <item>
       <title>.NET Development in 2025 + InstallFest!, with David Gardiner</title>
       <pubDate>Wed, 11 Mar 2025 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/306373821</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/306373821</guid>
-      <enclosure url="https://archive.org/download/adnug-2025-03/ADNUG%202025-03.mp3"
-        length="17577839" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2025-03/ADNUG%202025-03.mp3" length="17577839" type="audio/mpeg" />
       <description><![CDATA[<p>Never used .NET and wondering what all the fuss is about? Or are you a seasoned .NET professional curious about the parts you haven't yet explored? This session is for everyone—from newcomers to experts.</p>
 <p>We introduce .NET, explain how it works, and showcase its capabilities across front end, back end, desktop, mobile, cloud, IoT, AI, and more.</p>
 
@@ -60,15 +84,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         ]]></description>
       <itunes:duration>00:53:58</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2025/03-david-gardiner.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>Testing with SpecFlow, with Stephen Nield and Rich Moran</title>
       <pubDate>Wed, 13 Nov 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/304178406</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/304178406</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-11/ADNUG%202024-11.mp3"
-        length="20592592" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-11/ADNUG%202024-11.mp3" length="20592592" type="audio/mpeg" />
       <description><![CDATA[<p>SpecFlow is a framework for .NET used to create automated tests using the Gherkin Given-When-Then syntax.</p>
 <p>In, this talk, you'll learn about how SpecFlow can be used to create BDD style tests, and also how it can be extended to be used for different testing scenarios.</p>
 <p>Stephen and Rich will talk about their experience of using SpecFlow at HAMBS, some of the challenges they came across in the process, and how they extended the tool to meet the testing needs of HAMBS.</p>
@@ -87,15 +109,13 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         ]]></description>
       <itunes:duration>01:08:23</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/11-stephen-and-rich.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>10 tips and tricks for GitHub Actions and Azure DevOps, with David Gardiner</title>
       <pubDate>Wed, 11 Sep 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/303049329</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/303049329</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-09/ADNUG%202024-09.mp3"
-        length="21744755" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-09/ADNUG%202024-09.mp3" length="21744755" type="audio/mpeg" />
       <description><![CDATA[<p>In this talk I'll share some of the lessons learned in creating and maintaining numerous build and deployment pipelines in both Azure DevOps and GitHub.</p>
 <p>You will learn about the common traps to avoid, and simple improvements that can make your continuous integration and deployment processes more reliable and maintainable. The principles and techniques will also apply to other CI/CD toolsets.</p>
 
@@ -106,41 +126,35 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         ]]></description>
       <itunes:duration>01:20:38</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/09-david-gardiner.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>The different ways you can join your code together, with Calvin Fong</title>
       <pubDate>Wed, 14 Aug 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/302546578</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/302546578</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-08/ADNUG%202024-08.mp3"
-        length="20522020" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-08/ADNUG%202024-08.mp3" length="20522020" type="audio/mpeg" />
       <description><![CDATA[<p>Developers often say to "design your code like LEGO". Typically, they're suggesting you separate your code into small modules with single responsibilities. However, a frequently overlooked detail is that LEGO bricks have little studs that allow you to join them together without everything falling apart. This seems like an important detail not to overlook, because I really like when my code doesn't fall apart.</p>
         ]]></description>
       <itunes:duration>01:05:41</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/08-calvin-fong.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>Extending Microsoft Copilot with .NET, with Daniel Brown</title>
       <pubDate>Wed, 10 Jul 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/301848922</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/301848922</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-07/ADNUG%202024-07.mp3"
-        length="22583824" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-07/ADNUG%202024-07.mp3" length="22583824" type="audio/mpeg" />
       <description><![CDATA[<p>In this presentation, Daniel Brown, User Group Lead of the Adelaide Microsoft Copilot User Group, will delve into developing, integrating, and extending the capabilities of Microsoft Copilot within .NET. He will explore how developers can create custom functionalities, seamlessly integrate Copilot into their existing workflows, and extend its features to suit specific project needs. Daniel will showcase practical examples, share best practices, limitations and provide insights on how to leverage Copilot's advanced tools to enhance application performance and boost productivity. We'll also touch on the different Copilots and AI platforms offered by Microsoft.</p>
         ]]></description>
       <itunes:duration>01:14:54</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/07-daniel-brown.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>OpenTelemetry: Adding observability to any Microservices environment, with Glenn Versweyveld</title>
       <pubDate>Wed, 12 Jun 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/301055529</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/301055529</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-06/ADNUG%202024-06.mp3"
-        length="20662156" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-06/ADNUG%202024-06.mp3" length="20662156" type="audio/mpeg" />
       <description><![CDATA[<p>Discover how OpenTelemetry, an open-source observability framework can revolutionise the way you monitor, trace, and analyze your distributed systems.</p>
 <p>See how you can seamlessly integrate it into your existing microservices architecture, enabling you to capture rich telemetry data and gain actionable insights into the performance and behaviour of your services.</p>
 <p>Learn how visualise these insights through the Grafana toolstack, enabling you to detect and troubleshoot issues, optimize system performance, and enhance overall resilience.</p>
@@ -148,43 +162,37 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
         ]]></description>
       <itunes:duration>01:03:03</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/06-glenn-versweyveld.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>Building a Microsoft Teams app to replace email, with Ben Smit and Matthew Astachnowicz</title>
       <pubDate>Wed, 8 May 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/300491035</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/300491035</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-05/ADNUG%202024-05.mp3"
-        length="18236327" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-05/ADNUG%202024-05.mp3" length="18236327" type="audio/mpeg" />
       <description><![CDATA[<p>Do you want your notifications to cut through the noise of email? With the global shift to remote & hybrid work, email has been feeling the strain, pushing more and more companies to use IM apps such as MS Teams to keep their employees in sync. With users paying less attention to their emails, the humble notification emails that your service sends to users are now getting lost at a higher rate than ever.
 Well fear no more! At this month's ADNUG meetup, Ben and Matt from Teamgage will be teaching you how to create MS Teams apps, specifically with a focus on using a Teams app to send high impact notifications to your users. We'll cover how to create apps, test and install them, send messages to users using your app and even the 🌶️spicy🌶️ topic of getting your app published on the MS Teams app store.</p>
         ]]></description>
       <itunes:duration>01:04:27</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/05-ben-and-matt.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>Boosting Developer Experience, with Sam Fernando</title>
       <pubDate>Wed, 10 Apr 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/300044218</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/300044218</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-04/ADNUG%202024-04.mp3"
-        length="21553232" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-04/ADNUG%202024-04.mp3" length="21553232" type="audio/mpeg" />
       <description><![CDATA[<p>Developer experience is a crucial aspect of software development that focuses on improving the workflow, productivity, and overall satisfaction of developers. By enhancing the developer experience, teams can improve their velocity, performance, and resiliency, leading to better software development outcomes.</p>
 <p>Join Sam for an insightful presentation on developer experience (including tester experience), where he'll explore some strategies, tools, and best practices that can help you to take your team's software development process to the next level and also to measure how effective they are. From best practices, engineering tools implementation, gauging developer experience and continuous improvement, Sam will cover everything you need to know to create a seamless and enjoyable developer experience in your teams.</p>
         ]]></description>
       <itunes:duration>01:15:02</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/04-sam-fernando.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>Connectivity for IoT devices anywhere in the world, with Bryn Lewis</title>
       <pubDate>Wed, 13 Mar 2024 10:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/299606201</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/299606201</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-03/ADNUG%202024-03.mp3"
-        length="9905931" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-03/ADNUG%202024-03.mp3" length="9905931" type="audio/mpeg" />
       <description><![CDATA[<p>If your devices have to work anywhere, satellite connectivity is really the only option.</p>
 <p>This session is about building an Azure IoT based solution which copes with the challenges of satellite connectivity.</p>
 <ol>
@@ -201,15 +209,13 @@ Well fear no more! At this month's ADNUG meetup, Ben and Matt from Teamgage will
         ]]></description>
       <itunes:duration>00:32:59</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/03-bryn-lewis.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>.NET 8 Lightning talks</title>
       <pubDate>Wed, 14 Feb 2024 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/298685906/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/298685906/</guid>
-      <enclosure url="https://archive.org/download/adnug-2024-02/ADNUG%202024-02.mp3"
-        length="28026462" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2024-02/ADNUG%202024-02.mp3" length="28026462" type="audio/mpeg" />
       <description><![CDATA[<h2>.NET 8 favourites speed-run, with Ryan Rowston</h2>
 
 <p>Let's race into the next generation of .NET with a speed-run through a few of my favourite new features is .NET 8.
@@ -224,15 +230,13 @@ Well fear no more! At this month's ADNUG meetup, Ben and Matt from Teamgage will
         ]]></description>
       <itunes:duration>01:31:42</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2024/02-intro.jpg" />
-    </item> 
-
+    </item>
     <item>
       <title>Down the Oregon Trail with Functional C#, with Simon J. Painter</title>
       <pubDate>Wed, 13 Dec 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/296822252/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/296822252/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-12/ADNUG%202023-12.mp3"
-        length="26285183" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-12/ADNUG%202023-12.mp3" length="26285183" type="audio/mpeg" />
       <description><![CDATA[<p>In 1971, three students from Minnesota thought they could liven up a history lecture by creating a computer game for the students to play, and after several days of work in HP Time Share BASIC, they came up with what turned out to be a significant milestone in the history of computer games - Oregon Trail.</p>
 <p>Oregon Trail is often regarded as one of the first great computer games, as well as being the originator of a franchise that is still running to this day. It was effectively also one of the first instances of both Shareware and a Commercial home release (depending on the version).</p>
 <p>My interest though, isn't just in historical computer games, it's also .NET and Functional Programming. I want to use this as a worked example of one of my passions - Functional Programming in C#! The challenge I've set myself is to redevelop Oregon Trail into C# using the following restrictions:</p>
@@ -254,14 +258,13 @@ Well fear no more! At this month's ADNUG meetup, Ben and Matt from Teamgage will
         ]]></description>
       <itunes:duration>01:24:52</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2023/12-simon-painter.jpg" />
-    </item>     
+    </item>
     <item>
       <title>Revolutionizing Online Retail with Blazor, with James Chapman-Smith and Donald Urquhart</title>
       <pubDate>Wed, 13 Sep 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/295628602/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/295628602/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-09/ADNUG%202023-09.mp3"
-        length="26227338" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-09/ADNUG%202023-09.mp3" length="26227338" type="audio/mpeg" />
       <description><![CDATA[<p>An eye-opening journey into the heart of Discount Party Supplies' ERP
 system, Byblos, as we spotlight the transformative role Blazor has
 played in pushing our business to the next level. Discover how we at
@@ -276,14 +279,13 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
         ]]></description>
       <itunes:duration>01:40:40</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2023/09-james-and-donald.jpg" />
-    </item>    
+    </item>
     <item>
       <title>Managing granular authorisation in .NET, with Ryan Rowston</title>
       <pubDate>Wed, 9 Aug 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/295024024/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/295024024/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-08/ADNUG%202023-08.mp3"
-        length="21235583" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-08/ADNUG%202023-08.mp3" length="21235583" type="audio/mpeg" />
       <description><![CDATA[<p>We have a challenge: Modern day administrators want to keep a tight rein on who can perform different actions in their systems. Join us and learn how we've evolved our authorisation patterns to grant highly granular permissions to different users, while maintaining developer-friendly patterns in code.</p>
 <p>In this talk I'll explain how we've approached this challenge, including:</p>
 <ul>
@@ -299,15 +301,13 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
         ]]></description>
       <itunes:duration>01:04:36</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2023/08-ryan-rowston.jpg" />
-    </item>    
-
+    </item>
     <item>
       <title>ChatGPT Client with Blazor, GraphQL, .NET and Azure OpenAI Service, with John Merchant</title>
       <pubDate>Wed, 12 Jul 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/294446418/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/294446418/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-07/ADNUG%202023-07.mp3"
-        length="21191649" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-07/ADNUG%202023-07.mp3" length="21191649" type="audio/mpeg" />
       <description><![CDATA[<p>Have you ever loaded the official ChatGPT web application, entered a prompt and wondered: "How did they build that? How did they stream the response to the browser? And most importantly, how could I build it myself, using only C# and .NET"? Then this talk is for you! Especially if you are also interested in learning how leverage the new Azure OpenAI Service offering from Microsoft Azure!</p>
 <p>This talk also features GraphQL, using the HotChocolate server and StrawberryShake client libraries.</p>
 <p><strong>Links:</strong></p><ul>
@@ -318,14 +318,13 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
         ]]></description>
       <itunes:duration>01:19:52</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2023/07-john-merchant.jpg" />
-    </item>    
+    </item>
     <item>
       <title>From Code to Production - Building .NET Natively on AWS, with Derek Bingham</title>
       <pubDate>Wed, 14 Jun 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/293541913/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/293541913/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-06/ADNUG%202023-06.mp3"
-        length="23937827" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-06/ADNUG%202023-06.mp3" length="23937827" type="audio/mpeg" />
       <description><![CDATA[<p>Come and learn how 'DevPulse', a cloud native .NET application for delivering interactive polls at AWS community expo booths was taken from ideation into production.</p>
 <p>In this session we will learn how .NET was used to build a cross platform application, delivering messages to an AWS IOT backend, how that backend then aggregated and stored these messages before sending on to a real-time dashboard showing the results. We'll also see what best practices you can use when approaching your next .NET application to run on native AWS services and what IAC and automation tools can be used to make updates and new features seamless. You might event learn a bit a bit about .NET MAUI, AWS Lambda, Amazon DynamoDB, AWS AppSync and Blazor Web Assembly too 😊></p>
 <p><strong>Links:</strong></p><ul>
@@ -342,8 +341,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 10 May 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/293295381/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/293295381/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-05/ADNUG%202023-05.mp3"
-        length="29508258" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-05/ADNUG%202023-05.mp3" length="29508258" type="audio/mpeg" />
       <description><![CDATA[<p>In this presentation, we will explore why gRPC is a technology worth considering for API service development in .NET. We will discuss the benefits of gRPC over RESTful APIs and provide an overview of the basics of creating a gRPC service project. We will also cover advanced topics, including server-side streaming, bi-directional streaming, authentication, and the use of interceptors. Additionally, we will demonstrate how to add a C# client project, a Python client, and a web client. Finally, we will discuss how to manage changes and conduct mock testing with gRPC. This presentation will provide you with enough information to make informed decisions about whether gRPC is the right choice for your next API project.</p>
         ]]></description>
       <itunes:duration>01:47:14</itunes:duration>
@@ -354,8 +352,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 12 Apr 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/292349713/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/292349713/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-04/ADNUG%202023-04.mp3"
-        length="22007169" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-04/ADNUG%202023-04.mp3" length="22007169" type="audio/mpeg" />
       <description><![CDATA[<p>Hot Reload (and Edit and Continue) are reasonably amazing technologies allowing you to apply code changes on the fly, without stopping your application, or seemingly even recompiling it. Whilst a Hot Reload demo is all well and good (and I'm happy to provide one if you like), I personally find it much more interesting to talk about how it works under the hood, why some things don't work, what things might work in future, etc.</p>
 <p>This session will be a dive into the details of .NET DLLs, how they work, how Roslyn compiles deltas for them, and how the runtime applies them. All of that wonderful information you've always wanted to know, but were too afraid to ask! You'll learn absolutely nothing about JavaScript, microservices, or anything else your company actually uses, but at least you'll have a better understanding of what's in a .NET DLL, and a better idea of ILSpy is showing you next time you run it.</p>
 <p><strong>Links:</strong></p><ul>
@@ -369,8 +366,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 08 Mar 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/291789030/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/291789030/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-03/ADNUG%202023-03.mp3"
-        length="21885409" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-03/ADNUG%202023-03.mp3" length="21885409" type="audio/mpeg" />
       <description><![CDATA[<p>Whether it be MAUI, WPF, WinUI, Xamarin.Forms, UWP, Uno Platform, Avalonia, or any other technology that defines UIs with XAML, there are some common complaints about working with XAML files that have been around as long as XAML has.</p>
         <p>It can be hard to write, understand, maintain and modify. But, it doesn't have to be this way.</p>
         <p>The solution isn't abandoning XAML entirely, adopting a new framework, or using a different pattern. The solution is treating XAML like a "real programming language."</p>
@@ -388,8 +384,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 08 Feb 2023 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/290867786/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/290867786/</guid>
-      <enclosure url="https://archive.org/download/adnug-2023-02/ADNUG%202023-02.mp3"
-        length="13371212" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2023-02/ADNUG%202023-02.mp3" length="13371212" type="audio/mpeg" />
       <description><![CDATA[<p>You've been bashing your head against a wall for 5 hours trying to figure out what went wrong. Suddenly you remember what you were thinking when you wrote this code 2 years ago.</p>
 <p>"But an if statement would be so easy here," you had said. "Nobody will look at this anyway," you had said.</p>
 <p>Past you was a real jerk, weren't they?!</p>
@@ -401,8 +396,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 09 Nov 2022 10:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/289414799/?containers</guid>
-      <enclosure url="https://archive.org/download/adnug-2022-11-b/ADNUG%202022-11-B.mp3"
-        length="3359288" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2022-11-b/ADNUG%202022-11-B.mp3" length="3359288" type="audio/mpeg" />
       <description><![CDATA[<p>Running .NET inside a container has been supported for a while, but up until now, building the container image required a bunch of extra steps. Until .NET 7! We'll contrast how much easier it is to build containers for .NET apps in .NET 7, how you can customise the image to your needs, incorporate it into your CI/CD pipeline, and any limitations to be aware of.</p>
 
         <p><strong>Links:</strong></p><ul>
@@ -418,8 +412,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <link>
         https://www.meetup.com/adelaide-dotnet/events/289414799/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/289414799/?blazor</guid>
-      <enclosure url="https://archive.org/download/adnug-2022-11-a/ADNUG%202022-11-A.mp3"
-        length="19714868" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2022-11-a/ADNUG%202022-11-A.mp3" length="19714868" type="audio/mpeg" />
       <description><![CDATA[<p>Blazor is a Microsoft framework first released in 2018 that uses Razor syntax and C# instead of JavaScript for developing modern web apps. One of the exciting things about Blazor is that it enables .NET developers to utilise their existing C# knowledge and allows backend and frontend development to share much of the same code.</p>
 <p>Stephen will take you through his experience working with Blazor for WebAssembly to develop a web app for Cashflow Manager. This will be a quick introduction to some of the core concepts, and also an honest opinion of where Blazor is at, and what are some of the benefits and downsides of choosing Blazor over competing frameworks like Angular and React.</p>
         ]]></description>
@@ -431,8 +424,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <link>https://www.meetup.com/adelaide-dotnet/events/288153463/</link>
       <guid isPermaLink="true">
         https://www.meetup.com/adelaide-dotnet/events/288153463/</guid>
-      <enclosure url="https://archive.org/download/adnug-2022-09/ADNUG%202022-09.mp3"
-        length="24382495" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2022-09/ADNUG%202022-09.mp3" length="24382495" type="audio/mpeg" />
       <description><![CDATA[<p>WinUI is the new modern native UI platform of Windows. The open-source Uno Platform extends pixel-perfect WinUI experiences built with C# and XAML to all platforms. Yes. That means C# and XAML running on Web, WebAssembly, macOS, Linux, iOS, and Android. Awesome!</p>
 <p>Nick Randolph will show you the ins and outs of multi-platform design and development. You'll see how you can create applications spanning multiple platforms and form factors, and you'll see how reusing your C# skills and XAML knowledge can let you live the write once, run anywhere dream.</p>
 
@@ -448,8 +440,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 10 Aug 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/287527133/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/287527133/</guid>
-      <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3"
-        length="13682341" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2022-08/ADNUG%202022-08.mp3" length="13682341" type="audio/mpeg" />
       <description><![CDATA[<p>The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service-to-service invocation or publish-subscribe messaging, Dapr helps you write resilient and secured microservices. Dapr provides you with APIs that abstract away the complexity of common challenges developers encounter regularly when building distributed applications. These API building blocks can be leveraged as the need arises - use one, several or all to develop your application faster and deliver your solution on time. By letting Dapr's sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple.</p>
 
 <p>In this session, you will be introduced to Dapr, the fundamentals of the framework, its salient features, how Dapr can accelerate your Microservices development and how you can incrementally adopt Dapr in your workplace immediately. This will be accompanied with code walkthrough of a proof-of-concept prototype illustrating some of the highlighted features of Dapr and a working demonstration of the prototype containing example microservices using Dapr framework.</p>
@@ -465,8 +456,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 13 Jul 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/285736667/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/285736667/</guid>
-      <enclosure url="https://archive.org/download/adnug-2022-07/ADNUG%202022-07.mp3"
-        length="15487725" type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/adnug-2022-07/ADNUG%202022-07.mp3" length="15487725" type="audio/mpeg" />
       <description><![CDATA[<p>Lana (in conversation with David) takes us through some of the highlights of the recent Microsoft Build conference, including:</p>
 <ul>
 <li>Low code apps - a game changer for small/medium businesses?</li>
@@ -483,8 +473,7 @@ our 40-person-strong warehouse team. Experience innovation at work! </p>
       <pubDate>Wed, 11 May 2022 09:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/285489647/</link>
       <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/285489647/</guid>
-      <enclosure url="https://archive.org/download/2022-05_202211/2022-05.mp3" length="15732839"
-        type="audio/mpeg" />
+      <enclosure url="https://archive.org/download/2022-05_202211/2022-05.mp3" length="15732839" type="audio/mpeg" />
       <description><![CDATA[<p>Verify is a snapshot tool that simplifies the assertion of complex data models and documents with all popular .NET unit testing frameworks.</p>
 
         <p>Verify is called on the test result during the assertion phase. It serializes that result and stores it in a file that matches the test name. On the next test execution, the result is again serialized and compared to the existing file. The test will fail if the two snapshots do not match: either the change is unexpected, or the reference snapshot needs to be updated to the new result.</p>
@@ -1074,9 +1063,7 @@ Prior to joining DevExpress, Paul ran (and still owns) an independent software d
       <enclosure url="http://archive.org/download/201604_201605/2016%2004.mp3" length="36710386" type="audio/mpeg" />
       <description><![CDATA[This is a recording of our April 2016 meeting. First up, we have our regular What's New segment with Ryan Spears, then we have two presentations. The first is from Duncan Greaves about "Data Encryption using .Net and SQL Server", and then finally we have Dr Tom Tilley on "Building an Army of $10 Robots with HTML 5 and Node.js"]]></description>
     </item>
-
-<!-- podcastgarden.com site has gone offline, so all these episodes appear to be lost -->
-
+    <!-- podcastgarden.com site has gone offline, so all these episodes appear to be lost -->
     <!-- <item>
       <title>Octopus
         Deploy with David Rogers</title>
