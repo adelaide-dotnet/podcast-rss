@@ -20,6 +20,23 @@
     </itunes:owner>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
     <item>
+      <title>Vibe Coding &amp; Github Copilot Best Practices, with Sam Fernando</title>
+      <pubDate>Wed, 12 Nov 2025 07:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/311754054</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/311754054</guid>
+      <enclosure url="https://archive.org/download/adnug-2025-11/ADNUG%202025-11.mp3" length="25637782" type="audio/mpeg" />
+      <description><![CDATA[<p>AI assisted development is becoming a regular part of modern software teams. Tools like GitHub Copilot can help speed up delivery, reduce repetitive tasks, and free developers to focus on solving real problems. When used without the right practices though, they can introduce security risks, licensing concerns, and messy code that is hard to maintain.<br>
+As organisations start exploring Vibe Coding, there is a growing need for enterprise controls that guide the safe and responsible use of these tools. Before teams dive in, companies should think about compliance checks, best practice guidelines, and clear development standards. This helps ensure consistency, reduces risk, and supports quality as AI becomes part of everyday workflows.<br>
+You will leave with practical tips, real examples, and a simple checklist that will help you get the best out of AI assisted development in a safe, secure, and productive way.</p>
+
+<p>Speaker links:</p>
+<ul>
+  <li><a href="https://www.linkedin.com/in/samfernandoau/">LinkedIn</a></li>
+</ul>]]></description>
+      <itunes:duration>01:17:30</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2025/11-sam-fernando.jpeg" />
+    </item>
+    <item>
       <title>.NET SDK projects for SQL, with Ryan Rowston</title>
       <pubDate>Wed, 10 Sep 2025 08:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/310693213</link>
