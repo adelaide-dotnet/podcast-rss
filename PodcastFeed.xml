@@ -21,7 +21,26 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <itunes:name>David Gardiner</itunes:name>
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
-    <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />    
+
+    <item>
+      <title>.NET Aspire: What, Why and How, with Mitch Denny</title>
+      <pubDate>Wed, 14 May 2025 09:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/307329641</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/307329641</guid>
+      <enclosure url="https://archive.org/download/adnug-2025-05/ADNUG%202025-05.mp3"
+        length="18173360" type="audio/mpeg" />
+      <description><![CDATA[<p>.NET Aspire is an opinionated stack for building apps and wrangling their dependencies. In this session you'll learn what .NET Aspire is, why Microsoft created it, and how you can get started using it yourself. If you are already using .NET Aspire this is a great time to ask any questions you have and get an answer from one of the members of the .NET Aspire core team.</p>
+
+<p>Links:</p>
+<ul>
+  <li><a href="https://mitchdenny.dev/">Mitch Denny</a></li>
+  <li><a href="https://aspire.dev/">Aspire website</a></li>
+</ul>
+        ]]></description>
+      <itunes:duration>01:05:46</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2025/05-mitch-denny.jpg" />
+    </item>
 
     <item>
       <title>.NET Development in 2025 + InstallFest!, with David Gardiner</title>
