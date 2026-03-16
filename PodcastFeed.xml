@@ -20,6 +20,26 @@
     </itunes:owner>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
     <item>
+      <title>Our favourite parts of .NET 10, with Ryan Rowston, Mark Foreman, and David Gardiner</title>
+      <pubDate>Wed, 11 Feb 2026 07:00:00 GMT</pubDate>
+      <link>https://www.meetup.com/adelaide-dotnet/events/313171139</link>
+      <guid isPermaLink="true">https://www.meetup.com/adelaide-dotnet/events/313171139</guid>
+      <enclosure url="https://archive.org/download/adnug-2026-02/ADNUG%202026-02.mp3" length="18483667" type="audio/mpeg" />
+      <description><![CDATA[<p>Join us for a review of what's new in .NET 10.</p>
+<p>Ryan and David will show you a few of our favourite new features across the SDK, Runtime and C# enhancements.</p>
+<p>Mark will focus on challenges and tips for upgrading from .NET 8 to 10.</p>
+
+<p>About the speakers</p>
+
+<ul>
+<li><strong>Ryan Rowston</strong> - Senior Developer, with a focus on .NET applications and APIs. <a href="https://www.linkedin.com/in/ryanrowston/">LinkedIn</a></li>
+<li><strong>Mark Foreman</strong> - Multi-stack Developer at SA Power Networks, working in .NET and SAP on systems that support SA's renewable energy future. <a href="https://www.linkedin.com/in/markgforeman/">LinkedIn</a></li>
+<li><strong>David Gardiner</strong> - Senior Developer, SixPivot. Microsoft MVP (Developer Technologies). <a href="https://www.linkedin.com/in/davidrgardiner/">LinkedIn</a>, <a href="https://david.gardiner.net.au/">Blog</a></li>
+</ul>]]></description>
+      <itunes:duration>00:53:57</itunes:duration>
+      <itunes:image href="https://adnug.azurewebsites.net/2026/02-ryan-rowston-mark-foreman-and-david-gardiner.jpeg" />
+    </item>
+    <item>
       <title>Vibe Coding &amp; Github Copilot Best Practices, with Sam Fernando</title>
       <pubDate>Wed, 12 Nov 2025 07:00:00 GMT</pubDate>
       <link>https://www.meetup.com/adelaide-dotnet/events/311754054</link>
