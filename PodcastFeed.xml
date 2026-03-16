@@ -3,8 +3,8 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>Adelaide .NET User Group Podcast</title>
-    <link>https://www.meetup.com/Adelaide-dotNET/</link>
-    <description>Recordings of presentations made at monthly meetings of the Adelaide .NET User Group</description>
+    <link>https://www.adnug.net/</link>
+    <description>Recordings of presentations made at regular meetings of the Adelaide .NET User Group</description>
     <language>en</language>
     <copyright>Adelaide .NET User Group</copyright>
     <itunes:category text="Technology" />
@@ -18,6 +18,8 @@
       <itunes:name>David Gardiner</itunes:name>
       <itunes:email>admin@adnug.net</itunes:email>
     </itunes:owner>
+    <podcast:guid>1c0626ad-978d-5eee-b71d-2b1ad8a0b31c</podcast:guid>
+    <podcast:person role="host">David Gardiner</podcast:person>
     <atom:link href="https://feeds.feedburner.com/adnug" rel="self" type="application/rss+xml" />
     <item>
       <title>Our favourite parts of .NET 10, with Ryan Rowston, Mark Foreman, and David Gardiner</title>
@@ -38,6 +40,9 @@
 </ul>]]></description>
       <itunes:duration>00:53:57</itunes:duration>
       <itunes:image href="https://adnug.azurewebsites.net/2026/02-ryan-rowston-mark-foreman-and-david-gardiner.jpeg" />
+      <podcast:person role="guest">Ryan Rowston</podcast:person>
+      <podcast:person role="guest">Mark Foreman</podcast:person>
+      <podcast:person role="guest">David Gardiner</podcast:person>
     </item>
     <item>
       <title>Vibe Coding &amp; Github Copilot Best Practices, with Sam Fernando</title>

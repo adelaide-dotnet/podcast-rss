@@ -22,9 +22,9 @@ The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://f
 
 1. Use noise reduction effect (select a quiet bit to analyze and then apply that to the whole recording)
 2. Use Volume Normalization effect
-2. Export as MP3
-3. Encoding - choose 'VBR' smallest size
-4. Audacity Metadata
+3. Export as MP3
+4. Encoding - choose 'VBR' smallest size
+5. Audacity Metadata
 
     Field|Value
     ---|----
@@ -33,7 +33,7 @@ The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://f
     Year|year
     Genre|Podcast
 
-5. Upload to [https://archive.org/upload/](https://archive.org/upload/), with the following metadata
+6. Upload to [https://archive.org/upload/](https://archive.org/upload/), with the following metadata
 
     Field|Value
     --|---
@@ -43,9 +43,9 @@ The public URL for the Podcast is [https://feeds.feedburner.com/adnug](https://f
     Date | Date of recording
     License | Attribution-Noncommercial-No Derivative Works 3.0
 
-6. If two presentations, then save them as separate files
-7. Edit the [PodcastFeed.xml](PodcastFeed.xml) file to add the new episode. You can edit it manually, or use a tool like [RSS Builder](https://chocolatey.org/packages/rss-builder). Just review the changes it makes as sometimes it deletes things we want to keep.
-8. Push changes to master if you have access. Otherwise, create a pull request from your fork
+7. If two presentations, then save them as separate files
+8. Edit the [PodcastFeed.xml](PodcastFeed.xml) file to add the new episode. You can edit it manually, or use a tool like [RSS Builder](https://chocolatey.org/packages/rss-builder). Just review the changes it makes as sometimes it deletes things we want to keep.
+9. Push changes to master if you have access. Otherwise, create a pull request from your fork
 
 ## Extracting audio from video recording
 
@@ -60,7 +60,10 @@ Need to be 1400x1400 pixels (up to 3000x3000).
 ## Validation
 
 - [https://podba.se/validate/?url=https://adnug.azurewebsites.net/PodcastFeed.xml](https://podba.se/validate/?url=https://adnug.azurewebsites.net/PodcastFeed.xml)
+- <https://validator.w3.org/feed/check.cgi?url=https%3A%2F%2Fadnug.azurewebsites.net%2FPodcastFeed.xml>
 
 ## References
 
 - [Apple Podcast RSS Technical Specification](https://help.apple.com/itc/podcasts_connect/#/itcb54353390)
+- [Podcast namespace](https://podcastnamespace.org/)
+- [Podcast Standards Project](https://podstandards.org/)
